@@ -1,0 +1,802 @@
+[
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Minecraft: Pocket Edition",
+    "download_url": "https://itunes.apple.com/us/app/minecraft-pocket-edition/id479516143?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/202d1418d30ab35e136bc0ef3163e22ff816d0db791894ff4d18e32214a55700.jpg",
+    "order": "1"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Heads Up!",
+    "download_url": "https://itunes.apple.com/us/app/heads-up!/id623592465?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/32e05a38b9d43a17e49bb91b276ced4a8fe73a8ba6a160ae93175cb037e24ca6.jpg",
+    "order": "2"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Facetune",
+    "download_url": "https://itunes.apple.com/us/app/facetune/id606310581?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/f5692f7ede21e3282bb3835e3ae6ace469d14b194121dd33bb3c2a3e86091f14.jpg",
+    "order": "3"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Grand Theft Auto: San Andreas",
+    "download_url": "https://itunes.apple.com/us/app/grand-theft-auto-san-andreas/id763692274?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/95f19b0f9c7a7ff8e44b271deed715f2215776985db67ea907dfbd72212e47ec.jpg",
+    "order": "4"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Health & Fitness",
+    "name": "7 Minute Workout Challenge",
+    "download_url": "https://itunes.apple.com/us/app/7-minute-workout-challenge/id680170305?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c9ba60525d3194ff39bdcf9450ccea1a77b581f872e7c722daa5d2a107466ec6.jpg",
+    "order": "5"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Akinator the Genie",
+    "download_url": "https://itunes.apple.com/us/app/akinator-the-genie/id484090401?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/97da2b26fdff147483ad4cb8ce4918475ee9da2865c50212d10123b3c7cfc09c.jpg",
+    "order": "6"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Geometry Dash",
+    "download_url": "https://itunes.apple.com/us/app/geometry-dash/id625334537?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/79b6703582c61e7c05543ee9af9b69b4fdf42eeb3193c7b3ae7d019b82c8c4c3.jpg",
+    "order": "7"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Bloons TD 5",
+    "download_url": "https://itunes.apple.com/us/app/bloons-td-5/id563718995?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/76878bdb8225a53f9e320ab32a946faebb6840facdfc31dfa59f0218fede2482.jpg",
+    "order": "8"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Education",
+    "name": "Toca Life: Vacation",
+    "download_url": "https://itunes.apple.com/us/app/toca-life-vacation/id1114886979?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/3ab54d6d4a3bc7235ac3c583e09bdfa23b1c4c326000bbb0ab158571158b5fc7.jpg",
+    "order": "9"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Teeny Titans - A Teen Titans Go! Figure Battling Game",
+    "download_url": "https://itunes.apple.com/us/app/teeny-titans-teen-titans-go!/id1032743715?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/9b65407ae355b033d9ab5123ae89b51f5e87d8b395a20d13a7f21281f61ade7e.jpg",
+    "order": "10"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "THE GAME OF LIFE Classic Edition",
+    "download_url": "https://itunes.apple.com/us/app/game-life-classic-edition/id326912270?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/a78d69cc3de8cd4ac2fca4656103a2b701eb28c62556fb76ff4678a0f4b2dab0.jpg",
+    "order": "11"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Don't Starve: Pocket Edition",
+    "download_url": "https://itunes.apple.com/us/app/dont-starve-pocket-edition/id1012298403?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/a0dddd214d6d1d36d2e1d1a4e8e08957b582075e80aaafdaeda59269c4f19f85.jpg",
+    "order": "12"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Plague Inc.",
+    "download_url": "https://itunes.apple.com/us/app/plague-inc./id525818839?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/0cebf569e6ac072aa2f32f97f31a0ea65b54a7a788f5d911ed4adae2465d4e7f.jpg",
+    "order": "13"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Business",
+    "name": "HotSchedules",
+    "download_url": "https://itunes.apple.com/us/app/hotschedules/id294934058?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/84ff5a853212e228430757b027f996c102ee6d35ce67b00b896cc7c952e79686.jpg",
+    "order": "14"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "NBA 2K16",
+    "download_url": "https://itunes.apple.com/us/app/nba-2k16/id984732818?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/9cdcd764b17f3ee8741f4faf60068201b226a1abb70b89e03efd2b56e0b4ca03.jpg",
+    "order": "15"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Videoshop - Video Editor",
+    "download_url": "https://itunes.apple.com/us/app/videoshop-video-editor/id615563599?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/1d82778a8a1d774f9950df423883a2377f7a5243112100f4c06341c40d9c5283.jpg",
+    "order": "16"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Weather",
+    "name": "NOAA Radar Pro – Severe Weather Alerts, Forecast & Hurricane Tracker",
+    "download_url": "https://itunes.apple.com/us/app/noaa-radar-pro-severe-weather/id749133301?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/a550dc8e68fe13a1a45ee3792d938e6a52491b0aced96ca3f4bffc4e29d07049.jpg",
+    "order": "17"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Minecraft: Story Mode",
+    "download_url": "https://itunes.apple.com/us/app/minecraft-story-mode/id1001286466?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ceae7059afc8d7ad7a88656edd37b2c50a8270805e8dd48c782c765771c84034.jpg",
+    "order": "18"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Five Nights at Freddy's",
+    "download_url": "https://itunes.apple.com/us/app/five-nights-at-freddys/id912536422?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ccebc7f5f5e37565d545752527aa13c0b11ce62f02a13bc7da8c6fcd1a0db330.jpg",
+    "order": "19"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Terraria",
+    "download_url": "https://itunes.apple.com/us/app/terraria/id640364616?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/82cc8b8d87e5840a5df1dfae603612fa047fdb9a27f2d12876874c131ce51f66.jpg",
+    "order": "20"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "MONOPOLY Game",
+    "download_url": "https://itunes.apple.com/us/app/monopoly-game/id337021781?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/71a78c6eba05e221cec79592f98af8cfe2459d86f1cd9bd46485a81ddd61a27f.jpg",
+    "order": "21"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Health & Fitness",
+    "name": "Full Fitness : Exercise Workout Trainer",
+    "download_url": "https://itunes.apple.com/us/app/full-fitness-exercise-workout/id536049508?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/0f707b6cc25e814dc72c3d54fa96f9cfa00b6cd9daff8fc44eaaf3cdb367268e.jpg",
+    "order": "22"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Music",
+    "name": "Tabs & Chords by Ultimate Guitar - Learn and play acoustic guitar, bass and ukulele",
+    "download_url": "https://itunes.apple.com/us/app/tabs-chords-by-ultimate-guitar/id357828853?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b9e60aa4230c9e5a379c6be8a2aa9c9cd4a151e8a30d861de57122bc5dcddeba.jpg",
+    "order": "23"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Afterlight",
+    "download_url": "https://itunes.apple.com/us/app/afterlight/id573116090?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/f1d267a2d4a0f5a1557e7e1fca48631ba889bbbedec3d4760d9e9499cd73a259.jpg",
+    "order": "24"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Flick Home Run !",
+    "download_url": "https://itunes.apple.com/us/app/flick-home-run-!/id454086751?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/1014274f42b9174a897837dd8f5457f5cb4a9d37811aa9f348328ffbc7ff7783.jpg",
+    "order": "25"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Weather",
+    "name": "Storm Shield",
+    "download_url": "https://itunes.apple.com/us/app/storm-shield/id526831380?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/0961b71eb9be849ec7763252114df0b3007d9cc0e5319eb23e742e894921d5ef.jpg",
+    "order": "26"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Papa's Freezeria To Go!",
+    "download_url": "https://itunes.apple.com/us/app/papas-freezeria-to-go!/id824305459?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/dc52b27d1b5326d8817c7a0dbd46c0fb27a547528a2b1d83421f0374cf8c8e67.jpg",
+    "order": "27"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "True Skate",
+    "download_url": "https://itunes.apple.com/us/app/true-skate/id549105915?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/d64d7def4cede1d664ce9853bb84c5e6df96a2e150b5eaa8feb0d43c838a9dca.jpg",
+    "order": "28"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Scribblenauts Remix",
+    "download_url": "https://itunes.apple.com/us/app/scribblenauts-remix/id444844790?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c898063c6e64f3f84f31ef9cac43c08e077a8c441c91a13938878bf919ca3a53.jpg",
+    "order": "29"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Angry Birds",
+    "download_url": "https://itunes.apple.com/us/app/angry-birds/id343200656?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/7c939ba98bf5a27e77b7c0191bc54bd1f4908c70f1963680e72fed5decd0ceca.jpg",
+    "order": "30"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Weather",
+    "name": "Dark Sky - Hyperlocal Weather, Radar, and Storm Alerts",
+    "download_url": "https://itunes.apple.com/us/app/dark-sky-hyperlocal-weather/id517329357?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/2216852afc6f9c1155cf63dc949f6fc8d4f8ade841c2602f6891ee34c90d45ab.jpg",
+    "order": "31"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Alto's Adventure",
+    "download_url": "https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ca13c63446d8631b5b6cbc681d0e1728a56cb4cb4f2d2a48fa9e4bb9c14fe2b6.jpg",
+    "order": "32"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "KIMOJI",
+    "download_url": "https://itunes.apple.com/us/app/kimoji/id1068019093?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/91a367f2d9917e3858874db8bf1a08fa27e7ade92755bdff657694274ab14bf9.jpg",
+    "order": "33"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Catalogs",
+    "name": "Furniture Info for Minecraft PE ( Pocket Edition ) - Available for Minecraft PC too !",
+    "download_url": "https://itunes.apple.com/us/app/furniture-info-for-minecraft/id1122981172?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/3af9c22cbf8dc71519a0af71510d559bec56ab837f1762f833a421d78378d098.jpg",
+    "order": "34"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Reference",
+    "name": "Sky Guide: View Stars Night or Day",
+    "download_url": "https://itunes.apple.com/us/app/sky-guide-view-stars-night/id576588894?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/cc74bd84adb3c39d7fcc33c79441f37fa802144d04cb93048fc74f0ae03e1f73.jpg",
+    "order": "35"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Five Nights at Freddy's 2",
+    "download_url": "https://itunes.apple.com/us/app/five-nights-at-freddys-2/id941143328?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/34000d22025434fb68bec7381c2a81cca8f4c6fd930c875668fddfe321fcc256.jpg",
+    "order": "36"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Grand Theft Auto: Vice City",
+    "download_url": "https://itunes.apple.com/us/app/grand-theft-auto-vice-city/id578448682?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/380c81fd56f7fbfd5ff5ed155c7cff7e8448dd04cf9fff7fe001f0142942b471.jpg",
+    "order": "37"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "NBA JAM by EA SPORTS™",
+    "download_url": "https://itunes.apple.com/us/app/nba-jam-by-ea-sports/id402370879?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c7b0eeedcba7c37622e30044257ac1bd12fcf77d94defee816b6a26595b0ad72.jpg",
+    "order": "38"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Five Nights at Freddys 4",
+    "download_url": "https://itunes.apple.com/us/app/five-nights-at-freddys-4/id1023146677?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/6bfece6f4a0fdbac1621335bf2bb0c631102c056827b4043b9ba4d6006f132a2.jpg",
+    "order": "39"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "The Sims 3",
+    "download_url": "https://itunes.apple.com/us/app/the-sims-3/id317904170?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b33fb2baa3109417ea4e631e12cc2d3d62540a85e00e18369a98c33b8851dd2d.jpg",
+    "order": "40"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "Stick Texting - The Emoji Emoticons Killer (Emoticon Emojis)",
+    "download_url": "https://itunes.apple.com/us/app/stick-texting-emoji-emoticons/id548946769?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b14548b948db635d97f620dc65b5c7be7c43b5081c1fe1197f68c33df096c749.jpg",
+    "order": "41"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Lifestyle",
+    "name": "Pimp Your Screen - Custom Themes, Backgrounds and Wallpapers",
+    "download_url": "https://itunes.apple.com/us/app/pimp-your-screen-custom-themes/id749057895?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/d821ce3c3780e420f18cc12667c7010edf5f0678b6dd6ddd502d5fdbd9a96357.jpg",
+    "order": "42"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Business",
+    "name": "iScanner - PDF Document Scanner App",
+    "download_url": "https://itunes.apple.com/us/app/iscanner-pdf-document-scanner/id1035331258?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ba65a0e11fd726f354851561316c4be56cbae17568cf2570f81581711a6c951d.jpg",
+    "order": "43"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Business",
+    "name": "Scanner for Me - PDF Scanner & Printer for Documents, Emails, Receipts, Business Cards",
+    "download_url": "https://itunes.apple.com/us/app/scanner-for-me-pdf-scanner/id978697315?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/688f7c74fb07e890f2b5849058370a8ba6b0089305f5af8056d08c7abc499809.jpg",
+    "order": "44"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Lifestyle",
+    "name": "Face Shape Meter - find out your face shape from picture",
+    "download_url": "https://itunes.apple.com/us/app/face-shape-meter-find-out/id1070022685?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/84a1c29cd80dbc8702d147efbf52b4571f35ad658f6c48d2af7ab0a45b55ee4e.jpg",
+    "order": "45"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "Emoji ;)",
+    "download_url": "https://itunes.apple.com/us/app/emoji/id506462353?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/6d57eec7cb35a81de9da06b5e22ae047559a35cf547932ea85c8446a3ad8bf71.jpg",
+    "order": "46"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Finding Dory: Just Keep Swimming",
+    "download_url": "https://itunes.apple.com/us/app/finding-dory-just-keep-swimming/id1075901015?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/1759d5901516bfcfbf0a80b81aff74708b3c8b6ac9f7c3f0f6bec88e2ba8d40a.jpg",
+    "order": "47"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Goat Simulator",
+    "download_url": "https://itunes.apple.com/us/app/goat-simulator/id868692227?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c59a8d409a715e71a4e102a08ae24ed700af70579155e8dd65e8dc0552ab646a.jpg",
+    "order": "48"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Chameleon Run",
+    "download_url": "https://itunes.apple.com/us/app/chameleon-run/id1084860489?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/40f27b3c923493a2dd24f15061072dce2b0130524ec4979c6680036e7d3fff1e.jpg",
+    "order": "49"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Pixomatic - Remove background, Create composition, Add blur, color splash effects on photos",
+    "download_url": "https://itunes.apple.com/us/app/pixomatic-remove-background/id1080114119?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/d5705a0022f7e8fbe121dc5b7e747930903239c1c0c38fcdd7a16b5dd9b85bde.jpg",
+    "order": "50"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Fontmania - Add Artworks, Text Captions, and Typography Designs to Your Photos!",
+    "download_url": "https://itunes.apple.com/us/app/fontmania-add-artworks-text/id1014459049?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/87ed9e284f548211d2df65f44db37f44b3c19f09f1d299452991facd16fd338c.jpg",
+    "order": "51"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Goblin Sword",
+    "download_url": "https://itunes.apple.com/us/app/goblin-sword/id905488045?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/88c0508837c4e9cb958a938cc8ee075b5a174d0e62a3a1279d0e8a660017ee6e.jpg",
+    "order": "52"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Social Networking",
+    "name": "Grindr Xtra - Gay, same sex, bi, social network to chat and meet guys",
+    "download_url": "https://itunes.apple.com/us/app/grindr-xtra-gay-same-sex-bi/id319881193?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/15a795c2cd5dc8ad7b3f02818ac5fcb4726f5c7cb6dbc9acf799efd4eb029a6c.jpg",
+    "order": "53"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Monument Valley",
+    "download_url": "https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c3d1ea49e8f90170a1211c6569f917a260ee762f141f3a52a54cc84db2f57df4.jpg",
+    "order": "54"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Tiny Wings",
+    "download_url": "https://itunes.apple.com/us/app/tiny-wings/id417817520?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/45ff26d8b3a83ca24e539da3e345d1dd1e2fe6e9f48773b27d0d03285760e05a.jpg",
+    "order": "55"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Pocket God",
+    "download_url": "https://itunes.apple.com/us/app/pocket-god/id301387274?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/982a49380f3875fdb8f075caa0976e44273e68157095dd675f486839991ac65b.jpg",
+    "order": "56"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Skater - Skate Legendary Spots - Perfect Board Control",
+    "download_url": "https://itunes.apple.com/us/app/skater-skate-legendary-spots/id874845056?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/a7925fc150f079404f14427959923ca52df54712e44f8bfad862b92a71e81f5b.jpg",
+    "order": "57"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Farming Simulator 16",
+    "download_url": "https://itunes.apple.com/us/app/farming-simulator-16/id992051355?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5537c84de8088450d745a975f3949438df8e44a23388ce64a877c1c8bfc2ad2f.jpg",
+    "order": "58"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Superimpose",
+    "download_url": "https://itunes.apple.com/us/app/superimpose/id435913585?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b62f72068d7f744789321d71d1c5da7141451bc98ae681207a912c3adb375705.jpg",
+    "order": "59"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "Swype",
+    "download_url": "https://itunes.apple.com/us/app/swype/id916365675?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/37a3edfbea876c5509eec3efd89898a91da93c52fa8a101baa00152a31559dd7.jpg",
+    "order": "60"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Catalogs",
+    "name": "CRAZY CRAFT MODS FOR MINECRAFT PC EDITION - Epic Pocket Crazy Edition Wiki for Minecraft PC.",
+    "download_url": "https://itunes.apple.com/us/app/crazy-craft-mods-for-minecraft/id1123931458?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/bbfc247bba1520d66d2b679177fb50556b92d0c2269d63ac69edc89ceb5016ab.jpg",
+    "order": "61"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Word Swag - Cool fonts, typography generator, creative quotes, and text over pic editor!",
+    "download_url": "https://itunes.apple.com/us/app/word-swag-cool-fonts-typography/id645746786?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/529215977e9c612dc57709a032b7f6f9c992bceb7baa9c5f02d9a7693d546ec7.jpg",
+    "order": "62"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Wheel of Fortune (Official) - Endless Word Puzzles from America's #1 TV Game Show",
+    "download_url": "https://itunes.apple.com/us/app/wheel-fortune-official-endless/id568556189?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5d51c677197e35d75f39798fca0fa95ff9d7fe03068637726f4bb6479c9154b0.jpg",
+    "order": "63"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Photomyne Pro - Album Scanner",
+    "download_url": "https://itunes.apple.com/us/app/photomyne-pro-album-scanner/id951627022?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5a4b67ab46b73f41c32472ed32b546232be350580403d130581c64737e4c8b20.jpg",
+    "order": "64"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Grand Theft Auto III",
+    "download_url": "https://itunes.apple.com/us/app/grand-theft-auto-iii/id479662730?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5016820f5928192e45af45c26f96d921a6beaa7c08a6db31a2c1d7ff537ebff9.jpg",
+    "order": "65"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Fruit Ninja",
+    "download_url": "https://itunes.apple.com/us/app/fruit-ninja/id362949845?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c828b36e47a5c4a8ef757873304f02205dc8382d7d9091a5b7e79a2f83741f06.jpg",
+    "order": "66"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Education",
+    "name": "Toca Hair Salon 2",
+    "download_url": "https://itunes.apple.com/us/app/toca-hair-salon-2/id569632660?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/fd5f76d174e296cdec6fbd40e918e51701e4102f08d606b78923ac08fdaa3d7e.jpg",
+    "order": "67"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Soccer Physics",
+    "download_url": "https://itunes.apple.com/us/app/soccer-physics/id898568005?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/8360f5c61d8e6d0c03bdb9174795cdf554419455689920d1661d287c6a3234a8.jpg",
+    "order": "68"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Camera+",
+    "download_url": "https://itunes.apple.com/us/app/camera+/id329670577?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/f3956e55136ae7d3fc9843beecf465b145b9b210bc35ab62d5cd51a2d8b1ba3b.jpg",
+    "order": "69"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Ticket to Ride",
+    "download_url": "https://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/1183878d3179020ff0f92b4cf04ba0e3138ddf4f176e73621430a7ee6926e4b4.jpg",
+    "order": "70"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Papa's Cupcakeria To Go!",
+    "download_url": "https://itunes.apple.com/us/app/papas-cupcakeria-to-go!/id1029932207?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/eefa8e01d71e12c2fab312fac4af0aca925af5fd75b5d1291067025a43a9c38e.jpg",
+    "order": "71"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "StephMoji by Steph Curry",
+    "download_url": "https://itunes.apple.com/us/app/stephmoji-by-steph-curry/id1114234507?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/41e4668fdc463db19154b9e79bff3d0d37bb3e89e5a81c157a1ea32c7804b1e2.jpg",
+    "order": "72"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Five Nights at Freddy's 3",
+    "download_url": "https://itunes.apple.com/us/app/five-nights-at-freddys-3/id973482987?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/564d310696e46b5ecce2562a3873009522da6f3e30be9fdf0576f5c1e07f0449.jpg",
+    "order": "73"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "LEDit – The LED Banner App",
+    "download_url": "https://itunes.apple.com/us/app/ledit-the-led-banner-app/id307741537?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/741524dcf458a7f2a4a4e60735c7f29f4b2002060ae2daddea5ac8d693454c8d.jpg",
+    "order": "74"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "R.B.I. Baseball 16",
+    "download_url": "https://itunes.apple.com/us/app/r.b.i.-baseball-16/id1061197325?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/426107a01d71191d362771f0eb7b308cda4c685d267f5627f3731b18f037c703.jpg",
+    "order": "75"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Call of Duty: Black Ops Zombies",
+    "download_url": "https://itunes.apple.com/us/app/call-of-duty-black-ops-zombies/id471063940?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/39c48b772891e93308f6b25256a27b6c402ec3f8158ca546ab998ddf802ce77d.jpg",
+    "order": "76"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Silk 2 – Interactive Generative Art",
+    "download_url": "https://itunes.apple.com/us/app/silk-2-interactive-generative/id1050339928?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/83f30dfcf8bdada7ce4858b4adcb2652347a57d284220fa1258495f282b41d54.jpg",
+    "order": "77"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Stickman Soccer 2016",
+    "download_url": "https://itunes.apple.com/us/app/stickman-soccer-2016/id1105918031?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5a0f31d1ac7900d966ffe0c7a65c416f7e46d51652c582d5a9d151df9503044b.jpg",
+    "order": "78"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Health & Fitness",
+    "name": "The Wonder Weeks",
+    "download_url": "https://itunes.apple.com/us/app/the-wonder-weeks/id529815782?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b0e47171f5e01ec7817805a43cc640dcd34eef653258f4d809909c117c533753.jpg",
+    "order": "79"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Enlight",
+    "download_url": "https://itunes.apple.com/us/app/enlight/id930026670?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/088584e081649c06ae372d38246e72000ddf1d51f88d4fcab4354080f24b0bec.jpg",
+    "order": "80"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Backflip Madness",
+    "download_url": "https://itunes.apple.com/us/app/backflip-madness/id564874986?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/b72ac41c25beda06561a1b86ee8f21fd69c47f831a27154aebc983b8ac70628a.jpg",
+    "order": "81"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Goat Simulator Waste of Space",
+    "download_url": "https://itunes.apple.com/us/app/goat-simulator-waste-of-space/id1105903447?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/db8475f4f404cc8d5fa1cbf9cc7c05e118fb8630a3d7a16a9022336d2dc01212.jpg",
+    "order": "82"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Farming PRO 2016",
+    "download_url": "https://itunes.apple.com/us/app/farming-pro-2016/id1090871721?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/c39c3447bd8f768edd7a087db83a70eaef7af6c02d0f24aec754d5a0b0cf995b.jpg",
+    "order": "83"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Live Wallpapers for Me - Custom Animated Themes and Backgrounds",
+    "download_url": "https://itunes.apple.com/us/app/live-wallpapers-for-me-custom/id1066338494?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5f01ca4878a219ba662896c3fb9e29338da77e4c9cb67a16669a5f94b8be0428.jpg",
+    "order": "84"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "Emoji Keyboard for Me - Keyboard Themes, New Emojis & Stickers",
+    "download_url": "https://itunes.apple.com/us/app/emoji-keyboard-for-me-keyboard/id749094938?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5d4d92522d2a5d247054423e190c8233dad50858fc483f51f96cb5c39cc34779.jpg",
+    "order": "85"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Health & Fitness",
+    "name": "Couch to 5K® - Running App, Training Coach and GPS Tracker",
+    "download_url": "https://itunes.apple.com/us/app/couch-to-5k-running-app-training/id448474423?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/0c055bac9465a3299305ab93795c2c4268403a6e1c7e1ee867354c88e7a8ec32.jpg",
+    "order": "86"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Earn to Die 2",
+    "download_url": "https://itunes.apple.com/us/app/earn-to-die-2/id891194610?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ae6457e169844af5ebba24f33cb8b216c6020cc02b320e5f517b112e05819ccd.jpg",
+    "order": "87"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Bike Race Pro",
+    "download_url": "https://itunes.apple.com/us/app/bike-race-pro/id510461370?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/8c849a4fb06f28a30fa2ca1dcb0a2c5d127f31c0c270acb924d97bdbdf27dc93.jpg",
+    "order": "88"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Take Off - The Flight Simulator",
+    "download_url": "https://itunes.apple.com/us/app/take-off-the-flight-simulator/id982235342?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/5cb1631acdf5f77236be75c48f8de80bb5e4de13cbf814abea8fd49f56f37bd0.jpg",
+    "order": "89"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "Toca Lab",
+    "download_url": "https://itunes.apple.com/us/app/toca-lab/id748057890?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/828bf8a4246d3e70893f8ebf36c076ebb282d50e5d3705b1b1bf2c1cdd4e43f9.jpg",
+    "order": "90"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Radiation Island",
+    "download_url": "https://itunes.apple.com/us/app/radiation-island/id923760656?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/33bc2ba28488045ed2ac435ae7f67e60bc0dc152fa9f31f72d4a1754c165fb10.jpg",
+    "order": "91"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Utilities",
+    "name": "Pro Music Search for Spotify Premium",
+    "download_url": "https://itunes.apple.com/us/app/pro-music-search-for-spotify/id892521757?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/ab13bbdff7dc54f25929af6fa516420b76630b5ef008a9896fb97572e484b6ce.jpg",
+    "order": "92"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Zombieville USA 2",
+    "download_url": "https://itunes.apple.com/us/app/zombieville-usa-2/id454781476?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/e42105901e94ef912699069d558538ce0197423dc919a30168f497722c264910.jpg",
+    "order": "93"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Business",
+    "name": "Scanner Pro 7 - Document and receipt PDF scanner with OCR",
+    "download_url": "https://itunes.apple.com/us/app/scanner-pro-7-document-receipt/id333710667?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/a5163ffc49347a427ac2ad4b408453360b847d1c493c3438c6c235fa69ecc14c.jpg",
+    "order": "94"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Call of Duty: Zombies",
+    "download_url": "https://itunes.apple.com/us/app/call-of-duty-zombies/id338057689?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/e880495a3ce96d46a0311c6716a444a25bb698caf68047ab63bf8ee7c3983f6b.jpg",
+    "order": "95"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "Tank Hero",
+    "download_url": "https://itunes.apple.com/us/app/tank-hero/id438314348?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/d4e485eccfdbd0fbb30221c2f5d35e109355028917381d787185ac5a065e444f.jpg",
+    "order": "96"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Entertainment",
+    "name": "The Impossible Quiz!",
+    "download_url": "https://itunes.apple.com/us/app/the-impossible-quiz!/id334503000?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/922f4838e9f2c9c5487ca758831bf644470c4d7c346d27586560798fcffd2221.jpg",
+    "order": "97"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Photo & Video",
+    "name": "Baby Pics - pregnancy & baby milestone photos",
+    "download_url": "https://itunes.apple.com/us/app/baby-pics-pregnancy-baby-milestone/id965474816?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/9c6fde5557585531ecaf712558619fce31c769d8187f22851f4fce1c39f484c7.jpg",
+    "order": "98"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Weather",
+    "name": "NOAA Hi-Def Radar Pro -  Storm Warnings, Hurricane Tracker & Weather Forecast",
+    "download_url": "https://itunes.apple.com/us/app/noaa-hi-def-radar-pro-storm/id458225159?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/1b562cfcc2023a44fa60d02c9adf79ee4c79ebe7f038f3627af859c30282226e.jpg",
+    "order": "99"
+  },
+  {
+    "data_source": "apple_en_paid",
+    "app_type": "Games",
+    "name": "voi",
+    "download_url": "https://itunes.apple.com/us/app/voi/id1110376793?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-PAIDAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/paid-apps/images/2016/6/0dbecbf23279297d6e970b266e0eec993df03f75f858b0eb2b556b001067cda8.jpg",
+    "order": "100"
+  }
+]

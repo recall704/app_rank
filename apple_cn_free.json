@@ -1,0 +1,802 @@
+[
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "保卫萝卜3：新世界-官方正版顶级塔防大作，萌动未来",
+    "download_url": "https://itunes.apple.com/cn/app/bao-wei-luo-bo3-xin-shi-jie/id1001855348?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/66a6ba91f6723a5dc7cd60d9269c84ae7f742f31bb89e0dbf4adb5c9086d7390.jpg",
+    "order": "1"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "爱奇艺 - 奔跑吧兄弟4全网首播、老九门独播，电影电视剧综艺直播视频播放器",
+    "download_url": "https://itunes.apple.com/cn/app/ai-qi-yi-ben-pao-ba-xiong/id393765873?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/708f53a5a9063f7147d3c5a25dcf4611c0a3b466c08ce8e48b3ffd672b1ef0a7.jpg",
+    "order": "2"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "微信",
+    "download_url": "https://itunes.apple.com/cn/app/wei-xin/id414478124?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/63572c3c728a54c5f0d02dfd6fcf141bcbfd699f8a75c6530f39ca3abf00c31d.jpg",
+    "order": "3"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "优酷视频-仙剑云之凡、极限挑战2、喜剧者联盟全网独播",
+    "download_url": "https://itunes.apple.com/cn/app/you-ku-shi-pin-xian-jian-yun/id336141475?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/8a2b013aa5b45442d8565d24dd13a3edb128b5f75317a5f3adda61b1bbf0a151.jpg",
+    "order": "4"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "优步Uber-出行首选人民优步、专车、顺风车、拼车",
+    "download_url": "https://itunes.apple.com/cn/app/you-buuber-chu-xing-shou-xuan/id368677368?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/be728034435ac36717c890c227a59f91639e93baccef470a04ac858031da5cd8.jpg",
+    "order": "5"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "滴滴出行-专车,快车,顺风车,出租车,代驾,公交",
+    "download_url": "https://itunes.apple.com/cn/app/di-di-chu-xing-zhuan-che-kuai/id554499054?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/84ce3ffd84a174ba18e2e7ea78cade10e3e91e1b9bd744fb61bbcce6a4b518ee.jpg",
+    "order": "6"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "QQ",
+    "download_url": "https://itunes.apple.com/cn/app/qq/id444934666?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/4f3b42968c770646d5923e3694ce7d47411f1ffa6e3162096a0026c7db475fd7.jpg",
+    "order": "7"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "支付宝（zhifubao）-口碑 生活 理财 钱包",
+    "download_url": "https://itunes.apple.com/cn/app/zhi-fu-bao-zhifubao-kou-bei/id333206289?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/74d8a63cceadf330dc20ae2b7053bd44b2ca0c53f60fb463c5608a844f05a892.jpg",
+    "order": "8"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "淘宝 - 随时随地，想淘就淘",
+    "download_url": "https://itunes.apple.com/cn/app/tao-bao-sui-shi-sui-xiang/id387682726?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/20ac804529572820a75b874cb20d63d15d44bf172309a9766f07cbbcb5b96c18.jpg",
+    "order": "9"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "全民K歌",
+    "download_url": "https://itunes.apple.com/cn/app/quan-mink-ge/id910513149?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/d2a8022fcef2b75cb18a502b059896e6574f86133524fd1a5e9a89e76a5dd8f3.jpg",
+    "order": "10"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "QQ邮箱",
+    "download_url": "https://itunes.apple.com/cn/app/qq-you-xiang/id473225145?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/8644bc335ba515e488334a2927a524cc326fc56456eba01b3d7fd53b14822634.jpg",
+    "order": "11"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "效率",
+    "name": "百度云",
+    "download_url": "https://itunes.apple.com/cn/app/bai-du-yun/id547166701?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/eed0856f65d154a69ee0466e08c442cc0d4f4671a3d3f7794dc15d44a25aa902.jpg",
+    "order": "12"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "樱桃小丸子-正版授权最萌消除游戏",
+    "download_url": "https://itunes.apple.com/cn/app/ying-tao-xiao-wan-zi-zheng/id1066104817?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e3c97c88a52abf7b331411c8fb3ae3e1ef6339a4e83c6d4028658424a9393643.jpg",
+    "order": "13"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "WiFi万能钥匙 - 全球首创WiFi上网工具,一键连接免费WiFi热点",
+    "download_url": "https://itunes.apple.com/cn/app/wifi-wan-neng-yao-shi-quan/id919854496?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/a87b2bec9ba455b0f5b86f409bc4dd2bd829dc57e2523cc44e8565839c304537.jpg",
+    "order": "14"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "映客—多人连线直播·高清·美颜·明星·网红·高颜值",
+    "download_url": "https://itunes.apple.com/cn/app/ying-ke-duo-ren-lian-xian/id978985106?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/22e4ebac46eb0db6944e4616287ad053cba863ba9fb10e11289d76aa63ae1e10.jpg",
+    "order": "15"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "美图秀秀",
+    "download_url": "https://itunes.apple.com/cn/app/mei-tu-xiu-xiu/id416048305?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/a389f465da6402432d4a0ae68dec5326baeca94f1866e262d3d337dd0975cc83.jpg",
+    "order": "16"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "音乐",
+    "name": "酷狗音乐-8.0全新上线，我想和你唱无损原声免费下载",
+    "download_url": "https://itunes.apple.com/cn/app/ku-gou-yin-le-8.0quan-xin/id472208016?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/04966068f681e6f7f9248cf471110408f97c195b44dac82f5cb7e3542cbd2220.jpg",
+    "order": "17"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "58同城-招聘找工作,租房,二手房,二手车,二手物品",
+    "download_url": "https://itunes.apple.com/cn/app/58tong-cheng-zhao-pin-zhao/id480079300?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/86fd1c7a050d80e0397e80677cc3af5e019a655cbcafe2933180b58977166523.jpg",
+    "order": "18"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "京东-618周年庆，新人免费领188元优惠券，JD购物 时尚 正品",
+    "download_url": "https://itunes.apple.com/cn/app/jing-dong-618zhou-nian-qing/id414245413?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/63ec39f4cf22bee1d726eef6eabe0b228262c7261ba02085d05a8d034766ee39.jpg",
+    "order": "19"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "腾讯视频-奔跑吧兄弟4全网首播，吉祥天宝、缘来幸福全网独播",
+    "download_url": "https://itunes.apple.com/cn/app/teng-xun-shi-pin-ben-pao-ba/id458318329?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/91a64902c5b66de5be96c55a4d4befb55a856cfb168e7c263f41045d2fdbc765.jpg",
+    "order": "20"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "美食佳饮",
+    "name": "百度外卖-美食,打折优惠,水果生鲜,鲜花蛋糕,超市购,订餐送餐",
+    "download_url": "https://itunes.apple.com/cn/app/bai-du-wai-mai-mei-shi-da/id911686788?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/87ce411b893db83d47de9620ddce4f455aa31cda723b9cfaa0fa4c54875883a8.jpg",
+    "order": "21"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "王者荣耀：迷雾模式上线，5V5英雄公平对战手游",
+    "download_url": "https://itunes.apple.com/cn/app/wang-zhe-rong-yao-mi-wu-mo/id989673964?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/40c63f0f4b273b78835b8d60e3bed4fcae280a8dfa0bca299613c0cb4ed7de66.jpg",
+    "order": "22"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "教育",
+    "name": "iTunes U",
+    "download_url": "https://itunes.apple.com/cn/app/itunes-u/id490217893?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/3efe5a9a36202eb3aeb95531594ad2f65b4f97231ecb950845f5b9a1babc65ac.jpg",
+    "order": "23"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "微博",
+    "download_url": "https://itunes.apple.com/cn/app/wei-bo/id350962117?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/b215b11084f08d2c3e29bf7dedbd2dada2eb4834c811b636babef09375e874af.jpg",
+    "order": "24"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "音乐",
+    "name": "QQ音乐-跨界歌王独家歌曲下载,全民唱歌电台FM听歌播放器",
+    "download_url": "https://itunes.apple.com/cn/app/qq-yin-le-kua-jie-ge-wang/id414603431?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/21e899e2814560950c347f25e1a1c86f36441efa1a8a8c022dbe0e1437ebf7de.jpg",
+    "order": "25"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "SNOW - 自拍，人脸识别贴图，好玩的相机",
+    "download_url": "https://itunes.apple.com/cn/app/snow-zi-pai-ren-lian-shi-bie/id1022267439?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6d4469f2eef32bfd9682cb2578beaaa971d98325233a378ab820dcc536623822.jpg",
+    "order": "26"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "美食佳饮",
+    "name": "饿了么-外卖美食,超市夜宵,生鲜水果,订餐送餐,多点打折",
+    "download_url": "https://itunes.apple.com/cn/app/e-le-me-wai-mai-mei-shi-chao/id507161324?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/cadabde0d214922a17969f5692bdd48dbe94b69efe2e4f2fe38c6ead22132b91.jpg",
+    "order": "27"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "大众点评-闪惠,团购,美食,电影,酒店,外卖,KTV,霸王餐,美发,订座",
+    "download_url": "https://itunes.apple.com/cn/app/da-zhong-dian-ping-shan-hui/id351091731?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/ccca56a98d7738349d55daf8300623b6a1616cb5df50b65602904741ea6d26cb.jpg",
+    "order": "28"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "美颜相机 - 把手机变成自拍神器！",
+    "download_url": "https://itunes.apple.com/cn/app/mei-yan-xiang-ji-ba-shou-ji/id592331499?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/3cb93c65af59aefaeef978f91b7b726b50f6c9c228d748055fcabf28f93a932d.jpg",
+    "order": "29"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "导航",
+    "name": "高德地图（专业的手机地图）-自驾、公交出行神器 志玲语音导航",
+    "download_url": "https://itunes.apple.com/cn/app/gao-tu-zhuan-ye-shou-ji-tu/id461703208?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/4b08b274320d2702a674c4f842d141e23d37d33c45e31b5f09f01f04f54e1bfb.jpg",
+    "order": "30"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "携程旅行-订酒店机票火车票,查旅游攻略景点门票",
+    "download_url": "https://itunes.apple.com/cn/app/xie-cheng-lu-xing-ding-jiu/id379395415?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/958b20fca316c00a6d341b50b21548e5cde1acc8f8d4544102619c870a940e9f.jpg",
+    "order": "31"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "百度糯米-电影,美食团购",
+    "download_url": "https://itunes.apple.com/cn/app/bai-du-nuo-mi-dian-ying-mei/id467067151?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/d9863b1c29372969434a27d35370104d1ba19b43e99594f24790d4b062495e67.jpg",
+    "order": "32"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "唯品会 一家专门做特卖的网站",
+    "download_url": "https://itunes.apple.com/cn/app/wei-pin-hui-yi-jia-zhuan-men/id417200582?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/36633e9f958ce202561aa11cefb7a4b91908b96549bf8ecd96196cff205430a3.jpg",
+    "order": "33"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "平安金管家 — 值得信赖的掌上金融生活管家",
+    "download_url": "https://itunes.apple.com/cn/app/ping-jin-guan-jia-zhi-xin/id549421060?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/52e1573da1cc9de5564ba854f85c1821a45fdf222d416dffe27c0f562e0c66f5.jpg",
+    "order": "34"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "美团团购-团购，电影，美食，酒店，外卖，优惠，美团网出品",
+    "download_url": "https://itunes.apple.com/cn/app/mei-tuan-tuan-gou-tuan-gou/id423084029?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/2af14722f003dee7d8abfc87bd13f7ed09d609df5e28b6b1303f134f67074640.jpg",
+    "order": "35"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "新闻",
+    "name": "腾讯新闻-头条新闻热点资讯掌上阅读软件",
+    "download_url": "https://itunes.apple.com/cn/app/teng-xun-xin-wen-tou-tiao/id399363156?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/2c949651e88b57e72ad602163bb59b6b969eff9f98d2cc3fe72dacaa05f73926.jpg",
+    "order": "36"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "Faceu激萌 - 动态贴纸 美颜自拍 卖萌神器",
+    "download_url": "https://itunes.apple.com/cn/app/faceu-ji-meng-dong-tai-tie/id955253735?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/080b90166bb868ab3e56495e79a3b9dc4b24507facb28b55ffbf50e612091f00.jpg",
+    "order": "37"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "QQ同步助手-最好的通讯录、照片备份工具",
+    "download_url": "https://itunes.apple.com/cn/app/qq-tong-bu-zhu-shou-zui-hao/id389481236?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/bea5dbb2530067adc46fa98d01dea6f138721f11e829c3139eee15c058489a49.jpg",
+    "order": "38"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "魔灵幻想3D-万人同服，自由交易！国民女神代言的国民手游！",
+    "download_url": "https://itunes.apple.com/cn/app/mo-ling-huan-xiang3d-wan-ren/id1111419563?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/aeaed77480366dfaa7f31edd46c647b6b8e1f168d3d1517f2c76e11caf30260d.jpg",
+    "order": "39"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "彈彈島Ⅱ-Q萌性感彈射社交手遊（亞洲最紅少女天團Snh48代言）",
+    "download_url": "https://itunes.apple.com/cn/app/dan-dan-daoii-q-meng-xing/id1124282952?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6c058626af233b61ff1bb339282bb234582ef5a510e5a175e1df9ce8ad096fb7.jpg",
+    "order": "40"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "去哪儿旅行-机票.酒店.火车票.旅游.汽车票.自由行.门票",
+    "download_url": "https://itunes.apple.com/cn/app/qu-na-er-lu-xing-ji-piao./id395096736?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/d2b385a6adad4e5760de06c9fa72976917330559fe943432b806e02d141af252.jpg",
+    "order": "41"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "工银融e联",
+    "download_url": "https://itunes.apple.com/cn/app/gong-yin-ronge-lian/id796870199?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/beaf7ea2056ff5ef03b89af9a6ff8a1716b1ee82ef7daeb94f42c5b388985a3f.jpg",
+    "order": "42"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "手机百度—小说最全、上网最快、团购电影票最优惠的搜索",
+    "download_url": "https://itunes.apple.com/cn/app/shou-ji-bai-du-xiao-shuo-zui/id382201985?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/1be17f51c745a3a787ebfe52f8c8d89a3fd6f12d429d78e0d8b1b0cb2a38404e.jpg",
+    "order": "43"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "球球大作战（BOB）-全球玩家,实时对战",
+    "download_url": "https://itunes.apple.com/cn/app/qiu-qiu-da-zuo-zhan-bob-quan/id996509117?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/26cfc255675a45f3477dd6490cd4352a0f788f0745a3d02c71a75d039311870e.jpg",
+    "order": "44"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "芒果TV-超女总决赛全程直播，全网首播幻城全员加速中2我想和你唱",
+    "download_url": "https://itunes.apple.com/cn/app/mang-guotv-chao-nu-zong-jue/id629774477?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/f800080cd9fd1f43e45d37ee8845df414d1f4bd1c2857f627e54f7bfdd9d2f2c.jpg",
+    "order": "45"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "乐视视频-翻译官,全员加速中2,好先生全网首播,电影电视剧综艺动漫高清播放器",
+    "download_url": "https://itunes.apple.com/cn/app/le-shi-shi-pin-fan-yi-guan/id385285922?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6858af913e99b87f6561c0f22408ee1e27451164c186dd5081cf75368eaddd4e.jpg",
+    "order": "46"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "中国建设银行",
+    "download_url": "https://itunes.apple.com/cn/app/zhong-guo-jian-she-yin-xing/id391965015?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/9cb06023daefa1606cc6cec38a3dd5e77dd83b7981d75e15f09ef69a1904cf87.jpg",
+    "order": "47"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "导航",
+    "name": "百度地图-手机地图路线查询，智能语音交通导航",
+    "download_url": "https://itunes.apple.com/cn/app/bai-du-tu-shou-ji-tu-lu-xian/id452186370?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/3d316c4919468fc760031a6f876230c27fe4305866214e8b21b793c0f09a57b7.jpg",
+    "order": "48"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "新闻",
+    "name": "今日头条-推荐热点、新闻、视频、话题、资讯，你关心的 才是头条",
+    "download_url": "https://itunes.apple.com/cn/app/jin-ri-tou-tiao-tui-jian-re/id529092160?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/f365d77baed1b3c1bc134a0d41d1270edd570d6f57bc01f0a1498f942cc06de6.jpg",
+    "order": "49"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "遥控精灵-手机万能遥控器",
+    "download_url": "https://itunes.apple.com/cn/app/yao-kong-jing-ling-shou-ji/id717545062?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6509c1c818d7250a1ffc929b917c761ad09adf3a45a0a3dcc193518761578eb0.jpg",
+    "order": "50"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "快手，有点儿意思",
+    "download_url": "https://itunes.apple.com/cn/app/kuai-shou-you-dian-er-yi-si/id440948110?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e4a703340e18090a55353380e61cd7176c080b7ef0d82a131d5bbeadc1a83adf.jpg",
+    "order": "51"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "中国工商银行",
+    "download_url": "https://itunes.apple.com/cn/app/zhong-guo-gong-shang-yin-xing/id423514795?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/ec77b9ec3a419a1f2b0e0d6722729498f9d49b8366aeb34d04044db44421e306.jpg",
+    "order": "52"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "开心消消乐",
+    "download_url": "https://itunes.apple.com/cn/app/kai-xin-xiao-xiao-le/id791532221?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/177ed7b1c7548f3fac5c99807b1680a0ae0afedd6452970508704b8d2a474bf6.jpg",
+    "order": "53"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "PopStar！消灭星星官方正版 -全民最爱单机消除游戏",
+    "download_url": "https://itunes.apple.com/cn/app/popstar!-xiao-mie-xing-xing/id834878585?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/7d15254d84df31c590c63b80d560cc062a30fabf28bc0bc9776c28f4cd19031f.jpg",
+    "order": "54"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "健康健美",
+    "name": "Keep - 移动健身教练 · 自律给我自由",
+    "download_url": "https://itunes.apple.com/cn/app/keep-yi-dong-jian-shen-jiao/id952694580?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/1772f48f01e85cd8c17815921e74b7c2e0454a9bf86572e47e3e02ad875b5d8f.jpg",
+    "order": "55"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "陌陌—直播来了！聊天交友、附近直播",
+    "download_url": "https://itunes.apple.com/cn/app/mo-mo-zhi-bo-lai-le!-liao/id448165862?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/ffaa88953909da615880260cf1bcd67c63e3a9f09dade8c5a7c594b222e6d26a.jpg",
+    "order": "56"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "安居客—二手房、新房、租房、买房、房产、房价",
+    "download_url": "https://itunes.apple.com/cn/app/ju-ke-er-shou-fang-xin-fang/id415606289?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e88466fd58db3674aace1b8fa790cdcc0b6d2fb24c0582f22ff1845d79a6672e.jpg",
+    "order": "57"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "易到 - 低价专车,高品质出行",
+    "download_url": "https://itunes.apple.com/cn/app/yi-dao-di-jia-zhuan-che-gao/id427555239?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e348a0dcaa07fecb0d6956d4b1503638a9d60e7d2bc66cc20cbb074ce49af36d.jpg",
+    "order": "58"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "新闻",
+    "name": "UC 浏览器 - 5亿人的上网选择 搜索 头条 视频 小说一步直达",
+    "download_url": "https://itunes.apple.com/cn/app/uc-liu-lan-qi-5yi-ren-shang/id586871187?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e071211580f6fdb9bcc9153c0a66d3062e1053c1f83080c037a66494af87c8f9.jpg",
+    "order": "59"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "BB弹2-别动我大象",
+    "download_url": "https://itunes.apple.com/cn/app/bb-dan2-bie-dong-wo-da-xiang/id1107521460?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/a664211a480151bf5136c1d7f62fd23a6653cf4d7b8d716859a2c06ebd59c861.jpg",
+    "order": "60"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "全民坦克之战-首款坦克对战竞技手游 3秒匹配瞬时开炮",
+    "download_url": "https://itunes.apple.com/cn/app/quan-min-tan-ke-zhi-zhan-shou/id1111484111?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/65d253196e92f604070ca2e0b5a14fce6178f324dc5c8dad2ad355860a1c80d5.jpg",
+    "order": "61"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "铁路12306",
+    "download_url": "https://itunes.apple.com/cn/app/tie-lu12306/id564818797?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/d33a18c4a45a8727660ff4aec0510561d8407ddb8d6d9b85f2e95ee800f9f9ec.jpg",
+    "order": "62"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "QQ浏览器-《翻译官》搜索、小说、视频、头条、新闻资讯，体验极速上网生活",
+    "download_url": "https://itunes.apple.com/cn/app/qq-liu-lan-qi-fan-yi-guan/id370139302?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/89fba66f6fdc53bb6578558acd5a40f829e47cf282b9a0e7d957ce48f441955f.jpg",
+    "order": "63"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "新闻",
+    "name": "天天快报-你的兴趣阅读首选（头条新闻热点资讯首选平台）",
+    "download_url": "https://itunes.apple.com/cn/app/tian-tian-kuai-bao-ni-xing/id996866372?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/369ccaa6b7247db44782b30acccc912af0dc28906b4dab29f65e07c33b8c0fe1.jpg",
+    "order": "64"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "平安WiFi—一款能赚流量的免费WiFi上网工具",
+    "download_url": "https://itunes.apple.com/cn/app/ping-anwifi-yi-kuan-neng-zhuan/id953036666?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/bb3b3a0be812509e0430cdf8f630f9d74fa7d0ad4c694460ef67190c310fdcb8.jpg",
+    "order": "65"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "欢乐斗地主(腾讯)-国民第一斗地主",
+    "download_url": "https://itunes.apple.com/cn/app/huan-le-dou-zhu-teng-xun-guo/id446324234?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/ef568327ac789c0673f92f84db01389733a604a2aacdcdf597df3307f4a0295b.jpg",
+    "order": "66"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "音乐",
+    "name": "网易云音乐 - 跑步FM,正版海量曲库免费下载播放",
+    "download_url": "https://itunes.apple.com/cn/app/wang-yi-yun-yin-le-pao-bufm/id590338362?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/1309a1f1883a78e4253a88da9dacebdcf17a285b218a206bf9f64c312b84e1dc.jpg",
+    "order": "67"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "音乐",
+    "name": "酷我音乐-太阳的后裔无损下载，我想和你唱K歌",
+    "download_url": "https://itunes.apple.com/cn/app/ku-wo-yin-le-tai-yang-hou/id588673713?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/91b2e260162604770911a11d92d9e0385d1345e40ab30467446977be8ec33070.jpg",
+    "order": "68"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "借贷宝-直投熟人更高明",
+    "download_url": "https://itunes.apple.com/cn/app/jie-dai-bao-zhi-tou-shu-ren/id983151079?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/5fefda6b13b79ded51bd6e10a45b5eb78b5e5547d25ff82a58cfaefb09158e45.jpg",
+    "order": "69"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "搜狗输入法-最好用的输入法,壁纸表情颜文字in有尽有",
+    "download_url": "https://itunes.apple.com/cn/app/sou-gou-shu-ru-fa-zui-hao/id917670924?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/9fcbf87bc4f7e54f82e4e343871792cf94fd0fa2c37a50b8bf3a0a6c239db782.jpg",
+    "order": "70"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "工具",
+    "name": "中国移动手机营业厅(中国移动官方)",
+    "download_url": "https://itunes.apple.com/cn/app/zhong-guo-yi-dong-shou-ji/id583700738?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/87e06dea29a4b12783c7be85f179c704133ba00391e9bc52631db5566704af19.jpg",
+    "order": "71"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "爱奇艺PPS - 海量电影电视剧综艺视频播放器",
+    "download_url": "https://itunes.apple.com/cn/app/ai-qi-yipps-hai-liang-dian/id445375097?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/170a433880b04eb4b9d5d1bc746d82c5ec055c8542d9e82c9cdf513729633175.jpg",
+    "order": "72"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "土豆视频-仙剑云之凡、极限挑战2、任意依恋全网独播",
+    "download_url": "https://itunes.apple.com/cn/app/tu-dou-shi-pin-xian-jian-yun/id395898626?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/4646ab64eaf0fb3f61ad97c73848a33da594c30d7194f77514106f2e841715d3.jpg",
+    "order": "73"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "宾果消消乐(原糖果萌萌消)-黄致列代言",
+    "download_url": "https://itunes.apple.com/cn/app/bin-guo-xiao-xiao-le-yuan/id897447840?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/c8abf731d914654a4cd45f0e8b48146d32e41c6c750b85abca29d82648b64d07.jpg",
+    "order": "74"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "阿里旅行-酒店机票火车票预订 自由行必备",
+    "download_url": "https://itunes.apple.com/cn/app/li-lu-xing-jiu-dian-ji-piao/id453691481?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/a9bd19e9f2ef9811d42b6eb6314ac04c18a8a6dcdd1af4a8b4677b3f99b259e8.jpg",
+    "order": "75"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "唱吧-我想和你唱，赶快来和明星一起录歌吧",
+    "download_url": "https://itunes.apple.com/cn/app/chang-ba-wo-xiang-he-ni-chang/id509885060?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/fa94650c86f4c6e9d59ab2a5a95761b2e213c00d06aefd2e5f14043a2605ff72.jpg",
+    "order": "76"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "闲鱼 - 闲置交易社区，手机数码家电女装母婴服饰生活大件",
+    "download_url": "https://itunes.apple.com/cn/app/xian-yu-xian-zhi-jiao-yi-she/id510909506?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6df70e7147464e511c804e4c3378f266ac2f3e0bd46aa0fbae55f396af65350e.jpg",
+    "order": "77"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "潮自拍 - 有电影质感的自拍神器",
+    "download_url": "https://itunes.apple.com/cn/app/chao-zi-pai-you-dian-ying/id1014277964?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/09c0a28f132e164bba797ed49c26b1e80826fd8c6a2e0abf80c69a2767b23f30.jpg",
+    "order": "78"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "天猫-手机购物首次登录送百元礼包 时尚服装化妆品网购商城",
+    "download_url": "https://itunes.apple.com/cn/app/tian-mao-shou-ji-gou-wu-shou/id518966501?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/c9d8f651fd1af8fc0fe8dfb6b85a9584ce71f9df04fb19b04e6262d90a714b14.jpg",
+    "order": "79"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "游戏",
+    "name": "掌上电玩城 - 捕鱼,经典水果机,森林舞会合集",
+    "download_url": "https://itunes.apple.com/cn/app/zhang-shang-dian-wan-cheng/id1092375318?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e164ac9037bea49e99d6ae92fe5e7f65457fcbbfcb9ce5dcbfce565869966028.jpg",
+    "order": "80"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "效率",
+    "name": "WPS Office – 完美支持Word、PPT、Excel、PDF文档阅读编辑的办公软件",
+    "download_url": "https://itunes.apple.com/cn/app/wps-office-wan-mei-zhi-chiword/id599852710?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e503dc0e7b4bc7dc9b5cc7dcda671a6fc621927242c1e650e461258ca9757dfd.jpg",
+    "order": "81"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "途牛旅游-订机票火车票汽车票酒店景点门票，享自由行周边游自驾游旅行攻略",
+    "download_url": "https://itunes.apple.com/cn/app/tu-niu-lu-you-ding-ji-piao/id447313708?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/1cf00bba45f1a580c7bb13397e442308bf839ebf4423ac6e9d106b5b6e293310.jpg",
+    "order": "82"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "汽车之家-提供买车,养车,新车报价,二手车买卖,违章查询,优惠加油等一站式服务",
+    "download_url": "https://itunes.apple.com/cn/app/qi-che-zhi-jia-ti-gong-mai/id385919493?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/bfed49fd3d27ed57233554ec795237d0be085ece7413e6d56dd15eac6f94c59a.jpg",
+    "order": "83"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "健康健美",
+    "name": "咕咚-运动跑步骑行助手，减肥健身计步必备，马拉松跑团的社交圈",
+    "download_url": "https://itunes.apple.com/cn/app/gu-dong-yun-dong-pao-bu-qi/id453480684?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/842cd9d83bc8c1aa567839407f066e4cd8071781ed0ded2877d566b3dc28fd46.jpg",
+    "order": "84"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "同程旅游-订酒店机票景点门票汽车票火车票,享出境游及迪士尼周边游预订",
+    "download_url": "https://itunes.apple.com/cn/app/tong-cheng-lu-you-ding-jiu/id475966832?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/d82fa6b16c2ac79d27264ee98b972beadd6ec5e9ae196f407638653e6fec31cd.jpg",
+    "order": "85"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "摄影与录像",
+    "name": "美拍 - TFBOYS直播平台，高颜值手机直播+超火爆原创视频！",
+    "download_url": "https://itunes.apple.com/cn/app/mei-pai-tfboys-zhi-bo-ping/id847334708?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/6a7f01e02b85b4143cc25e24a4e6d6947912b0a7146dd3ae369a742479ebf9c3.jpg",
+    "order": "86"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "图书",
+    "name": "喜马拉雅FM（听书社区）电台有声小说英语相声新闻",
+    "download_url": "https://itunes.apple.com/cn/app/xi-ma-la-yafm-ting-shu-she/id876336838?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/4baea457cf8cab0e06eaf73805801fbaaa90fb4d921e22cef804149f7010fd24.jpg",
+    "order": "87"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "购物",
+    "name": "返利-购物省钱神器,原51返利网(51fanli.com)专注返利9年",
+    "download_url": "https://itunes.apple.com/cn/app/fan-li-gou-wu-sheng-qian-shen/id591584458?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/260a9fbb7d46bd6d643f84d01fc0e3071c4ed5fdbdd5382eef4d6cc8c2463de7.jpg",
+    "order": "88"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "交通银行信用卡买单吧",
+    "download_url": "https://itunes.apple.com/cn/app/jiao-tong-yin-xing-xin-yong/id1057446665?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/1798fc8add2922776fd76eba12a4c4cab928e3d1e9c75ff4cda8bb3e9903245f.jpg",
+    "order": "89"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "财务",
+    "name": "农行掌上银行",
+    "download_url": "https://itunes.apple.com/cn/app/nong-xing-zhang-shang-yin-xing/id515651240?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/cc744b62c87f5b1b5e6fa479b05159a9c7a48f135e26e5adda1c6967539e1f64.jpg",
+    "order": "90"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "美食佳饮",
+    "name": "美团外卖-美食,水果蛋糕,生鲜超市,订餐送餐,打折优惠,美团网出品",
+    "download_url": "https://itunes.apple.com/cn/app/mei-tuan-wai-mai-mei-shi-shui/id737310995?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/b33b66e104cbb9794f5d7f7b9e64ed398c14d7c247747a9c9ff014014d4918b9.jpg",
+    "order": "91"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "效率",
+    "name": "360云盘-安全的保存文件和照片",
+    "download_url": "https://itunes.apple.com/cn/app/360yun-pan-quan-bao-cun-wen/id508401605?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/5da96fc87863e5d111e3a003cdf86f1ddbcadd525e7f01254c081a13701a1653.jpg",
+    "order": "92"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "卓易彩票-买足彩,竞彩,看足球,篮球,比分直播,玩赚欧洲杯",
+    "download_url": "https://itunes.apple.com/cn/app/zhuo-yi-cai-piao-mai-zu-cai/id1034633030?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/89f8341c5c2f814ff680166ff44321259b2a917efb99c4262e9dfb8e6a557abe.jpg",
+    "order": "93"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "YY- 和美女帅哥主播视频聊天的手机直播软件,全民互动交友的K歌秀场",
+    "download_url": "https://itunes.apple.com/cn/app/yy-he-mei-nu-shuai-ge-zhu/id427941017?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/76c6f0226cc9e1759e3b8fc9cc683c4bb833eded0154e30e5b4ea5b767a0a512.jpg",
+    "order": "94"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "娱乐",
+    "name": "迅雷-找片看片神器，打发时间必备",
+    "download_url": "https://itunes.apple.com/cn/app/xun-lei-zhao-pian-kan-pian/id593444693?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/e503894e4864b13506b719227f8ea7fa15a13ba1fdf40d6dea33dd52ea7cbf83.jpg",
+    "order": "95"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "健康健美",
+    "name": "美柚经期助手-大姨妈·月经·经期·生理期预测,备孕·孕妇·育儿·妈妈帮交流必备",
+    "download_url": "https://itunes.apple.com/cn/app/mei-you-jing-qi-zhu-shou-da/id634896669?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/8a384c7b4a7001767629a493e3afae0e230dc5fee70c239f9c08cc59bcfa3806.jpg",
+    "order": "96"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "滴滴司机—快车专车1号专车司机端-实时路况高效出行，司机招募车主加盟（司机版）",
+    "download_url": "https://itunes.apple.com/cn/app/di-di-si-ji-kuai-che-zhuan/id911699257?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/c1bdb0173a13b71e1b74d1aae40a17cc39066b40c3281fcf1f81e485070121ad.jpg",
+    "order": "97"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "生活",
+    "name": "她社区-只有女生的社区！",
+    "download_url": "https://itunes.apple.com/cn/app/ta-she-qu-zhi-you-nu-sheng/id978603244?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/bf129cc36f5a5e413b9bd3839ccc970f9f2c88963640f16511f7eaca9ce290f3.jpg",
+    "order": "98"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "旅游",
+    "name": "去哪儿攻略—旅游攻略首选 订门票机票酒店火车票 旅行旅游周边游出境游必备",
+    "download_url": "https://itunes.apple.com/cn/app/qu-na-er-gong-e-lu-you-gong/id555610791?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/2c5c320cd288cc312d0059a81ab7ce49db9aa0cdcce70b924a1f405a5c9c9671.jpg",
+    "order": "99"
+  },
+  {
+    "data_source": "apple_cn_free",
+    "app_type": "社交",
+    "name": "探探－超火爆社交App",
+    "download_url": "https://itunes.apple.com/cn/app/tan-tan-chao-huo-bao-she-jiaoapp/id861891048?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/free-apps/images/2016/6/ff7e80850a9c5740c8ec693df28c2d4e12b21235f078c11596e6802f8c61cb02.jpg",
+    "order": "100"
+  }
+]

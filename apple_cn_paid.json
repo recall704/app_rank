@@ -1,0 +1,802 @@
+[
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Don't Starve: Pocket Edition",
+    "download_url": "https://itunes.apple.com/cn/app/dont-starve-pocket-edition/id1012298403?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/a0dddd214d6d1d36d2e1d1a4e8e08957b582075e80aaafdaeda59269c4f19f85.jpg",
+    "order": "1"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "大航海时代(简体中文版)-海盗部队集结",
+    "download_url": "https://itunes.apple.com/cn/app/da-hang-hai-shi-dai-jian-ti/id1061375067?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/4cc50dc5246fb4d869efa55d69b9b1ae1ec417d9cc0b5a3dcf9e4387eb5e4c5a.jpg",
+    "order": "2"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "鬼吹灯3D-灵异探险-姚晨代言正版大作-正宗摸金范儿",
+    "download_url": "https://itunes.apple.com/cn/app/gui-chui-deng3d-ling-yi-tan/id1055302633?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1f4f3ef2f9b3e707ab93006f510ea8f3fda0aedd501a9f9eca3d154031c9547d.jpg",
+    "order": "3"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "航海归来（环球贸易探险手游）",
+    "download_url": "https://itunes.apple.com/cn/app/hang-hai-gui-lai-huan-qiu/id1037171742?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/ec1f5c5f55cc838455c20f8aa63da9fbd2a87f747b92764f0ecf6f6eb8cf21d4.jpg",
+    "order": "4"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "星之轨迹-好玩的手游角色扮演网游新游戏",
+    "download_url": "https://itunes.apple.com/cn/app/xing-zhi-gui-ji-hao-wan-shou/id1073035133?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/c00117f7f138673773a571aa2d466444e8d4e8d0a2c9e31c74adc1ee9740bbfe.jpg",
+    "order": "5"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Alto's Adventure",
+    "download_url": "https://itunes.apple.com/cn/app/altos-adventure/id950812012?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/ca13c63446d8631b5b6cbc681d0e1728a56cb4cb4f2d2a48fa9e4bb9c14fe2b6.jpg",
+    "order": "6"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "正三国-正统三国志权威策略手游",
+    "download_url": "https://itunes.apple.com/cn/app/zheng-san-guo-zheng-tong-san/id1119492926?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e1b0690c88f40f0d2019f7a22913e32631d9eac4591cdd2576735a99fbf877aa.jpg",
+    "order": "7"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "葫芦娃(正版授权)－经典国产动画【葫芦兄弟】六一全新来袭，原版复刻，登录送大娃！妖精~还我爷爷",
+    "download_url": "https://itunes.apple.com/cn/app/hu-lu-wa-zheng-ban-shou-quan/id1088179585?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/dc640c2d62d3d232169304039ea9549b37f922251afb1f9632116e1227d7de6f.jpg",
+    "order": "8"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "热血三国-官方正版国战策略手游",
+    "download_url": "https://itunes.apple.com/cn/app/re-xue-san-guo-guan-fang-zheng/id1113971097?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/c3a8c846560a615c44811d27bca3362e2650dd45fe422a26d6f275c89d6cde09.jpg",
+    "order": "9"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "部落X联盟HD—九大可选职业，战斗任意切换天赋",
+    "download_url": "https://itunes.apple.com/cn/app/bu-luox-lian-menghd-jiu-da/id1124002302?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8f9305c52e49af815d06ad77e362178481da0dd149d4431948c5e417dd4c69a4.jpg",
+    "order": "10"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Chameleon Run",
+    "download_url": "https://itunes.apple.com/cn/app/chameleon-run/id1084860489?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/40f27b3c923493a2dd24f15061072dce2b0130524ec4979c6680036e7d3fff1e.jpg",
+    "order": "11"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "变身吧精灵（次时代最强战斗，童年战斗完美呈现，来收集你的精灵吧）",
+    "download_url": "https://itunes.apple.com/cn/app/bian-shen-ba-jing-ling-ci/id1110679179?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/a0cba9da7369b7959b3572abd1070e5a18d83f4f533979ba5886a7b725d391b6.jpg",
+    "order": "12"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "渡劫修仙 - 传奇斗罗版 真人热血PK自由交易 封印BOSS全开放",
+    "download_url": "https://itunes.apple.com/cn/app/du-jie-xiu-xian-chuan-qi-dou/id1100611301?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/722ad44a825cfd10636623af2de161ae96189456b0e92f899b0306338463ef8d.jpg",
+    "order": "13"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "骚年卧龙传",
+    "download_url": "https://itunes.apple.com/cn/app/sao-nian-wo-long-chuan/id1115543708?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e17005cf8d465fade852d337915001b1c0fce543d3bb43083a1c12a2e9af0b04.jpg",
+    "order": "14"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "诛神黄昏-自由交易-杀人爆装开放式战斗",
+    "download_url": "https://itunes.apple.com/cn/app/zhu-shen-huang-hun-zi-you/id1106337215?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/11ad9e5af5d63bd3d6f6105e071a88fba40572a95a5d9f47e19bf4308b3a0885.jpg",
+    "order": "15"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "割草英雄 -多时装探索童话迷宫鬼屋",
+    "download_url": "https://itunes.apple.com/cn/app/ge-cao-ying-xiong-duo-shi/id1117799435?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/06e9faf9d6524c1e30671d138f0e4343fe5ec8a357914faa0043cd938d8a9105.jpg",
+    "order": "16"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "蜀山天下-结婚双修+自由交易+pk爆装，万人修仙诛魔大战开启！",
+    "download_url": "https://itunes.apple.com/cn/app/shu-shan-tian-xia-jie-hun/id1113951727?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/eba923850b8846ba683175e40581e8ba80d7627b1d0be8d4349e805d9fff7fb7.jpg",
+    "order": "17"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "三国龙翔传-激战与谋略 打造真正的三国",
+    "download_url": "https://itunes.apple.com/cn/app/san-guo-long-xiang-chuan-ji/id933464392?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e7dd313e1f702c5d11f5fca3356bc57cd2644214c99f886ac94f5c981882971c.jpg",
+    "order": "18"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "天堂战记豪华版-登录送豪华大礼，创新跨服王者对决",
+    "download_url": "https://itunes.apple.com/cn/app/tian-tang-zhan-ji-hao-hua/id1123567950?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/f9b2e8851e0be68230a8b31bdb78b99808bac70e93e6cd2497abed7c6e608c47.jpg",
+    "order": "19"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "格斗学院-王者争霸 荣耀再现",
+    "download_url": "https://itunes.apple.com/cn/app/ge-dou-xue-yuan-wang-zhe-zheng/id1041370707?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8eaf2487249e637e77f604183ed3ecf2b6b664854f9a7e8eed21847bba56e3ab.jpg",
+    "order": "20"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "神曲之符文英雄-刘亦菲为你而战",
+    "download_url": "https://itunes.apple.com/cn/app/shen-qu-zhi-fu-wen-ying-xiong/id1061531073?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/68d19c9faebc0c0cad63e817f70c88e04f1a10a3195175471bed1df466bf9919.jpg",
+    "order": "21"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "哇！邻家妹子：真人视频养成恋爱游戏，遇见心动传说抱抱女神",
+    "download_url": "https://itunes.apple.com/cn/app/wa!-lin-jia-mei-zi-zhen-ren/id1117703736?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e650579662d38d7d44ab6ba9ad534985381a3ac2eb9c95a57f495c974eb1e559.jpg",
+    "order": "22"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "永不言弃！！",
+    "download_url": "https://itunes.apple.com/cn/app/yong-bu-yan-qi!!/id932389062?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/52ff4fc34d9e63f5356f147022fcbc800de6ff16ca5c63c5f7ffeb2aee4f65b3.jpg",
+    "order": "23"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "御龙三国志OL-少年群英志在一统三国，横扫魏蜀吴",
+    "download_url": "https://itunes.apple.com/cn/app/yu-long-san-guo-zhiol-shao/id1116624082?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/93c358bfdeaa7a82f48ba71012f33a26fceb0558df1aaec13489b13d11b6951d.jpg",
+    "order": "24"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "少年勇者团 (Combo Warrior)-胡子辣妹ladybeard在冒险中等你",
+    "download_url": "https://itunes.apple.com/cn/app/shao-nian-yong-zhe-tuan-combo/id1101015200?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/d14575cecd428408a515faa721792b056720f464be695af1bbf3291dddcac881.jpg",
+    "order": "25"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "杜隆坦之怒-电影同期上线手游，见证部落与联盟孰强孰弱",
+    "download_url": "https://itunes.apple.com/cn/app/du-long-tan-zhi-nu-dian-ying/id1117784764?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8ae4cbe065fff74767ccaa34efc42065ff7f7ebb14bb5b337b2be37df8900d5e.jpg",
+    "order": "26"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "三国群英传-官方唯一正版授权",
+    "download_url": "https://itunes.apple.com/cn/app/san-guo-qun-ying-chuan-guan/id1076877374?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/cbe0fe6ea81686d6ccd6f49b9c4852d651e826643d9a02948c80a31c988e2c41.jpg",
+    "order": "27"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "荒岛求生-首款荒野求生冒险游戏",
+    "download_url": "https://itunes.apple.com/cn/app/huang-dao-qiu-sheng-shou-kuan/id1101582722?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/21df598d17c221726cdb99bbb2043bde9bd9890b1db2c814ddc66491645333e8.jpg",
+    "order": "28"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "IMPOSSIBLE ROAD",
+    "download_url": "https://itunes.apple.com/cn/app/impossible-road/id608707318?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/852c06f193116ec7fa713ffa929bab3c6290cb62af848532d9af4679a9720f6a.jpg",
+    "order": "29"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Superbrothers: Sword & Sworcery EP",
+    "download_url": "https://itunes.apple.com/cn/app/superbrothers-sword-sworcery/id424912055?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/9f610d5cc508ec1e5f64e9c6e5021bac38d3ce8d1aa66d04bb1ae5ee99979cad.jpg",
+    "order": "30"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "海上争霸：战舰霸主VIP版—二战世界巅峰海上对战",
+    "download_url": "https://itunes.apple.com/cn/app/hai-shang-zheng-ba-zhan-jian/id1112078905?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/075d03205f03a1b1b1868d079f3dcdc6d3b56a140487d91985294a5fae74147b.jpg",
+    "order": "31"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "最萌西游快速升级版——来感受一下佛祖的战斗力！",
+    "download_url": "https://itunes.apple.com/cn/app/zui-meng-xi-you-kuai-su-sheng/id1114764097?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/833a12ae52ceecac415a19fed82704911fee189db3bccd50183da40950803e04.jpg",
+    "order": "32"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "盗墓OL-正版授权 3D灵异探险角色扮演游戏",
+    "download_url": "https://itunes.apple.com/cn/app/dao-muol-zheng-ban-shou-quan/id1111480443?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/88ab4b72ec6c49e28860abbd590394a771aeeb668ae3731eee963d5299ae5d49.jpg",
+    "order": "33"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "拳皇97高清版(SNK正版授权经典街机无广告精品单机推图游戏)",
+    "download_url": "https://itunes.apple.com/cn/app/quan-huang97gao-qing-ban-snk/id1021541968?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/7488707a05cab5fef5e94a613ce7684d2a972539e76b4e9c1e60b912e6c3309c.jpg",
+    "order": "34"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "图书",
+    "name": "国家地理 - 每日精选 (美图、壁纸)",
+    "download_url": "https://itunes.apple.com/cn/app/guo-jia-li-mei-ri-jing-xuan/id807317212?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e5aab6ce2a3631a69ec96f2210a7f6653c68f0692910699421a6bb66dbb1b30e.jpg",
+    "order": "35"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "摄影与录像",
+    "name": "色影 - 1000个滤镜的色彩相机，Colorburn中文版",
+    "download_url": "https://itunes.apple.com/cn/app/se-ying-1000ge-lu-jing-se/id899003026?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/f2b39867505238a5773fa268e42ea48767cc56c4884a50d1f71e0f6ce79d8a51.jpg",
+    "order": "36"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "魔灵兵团-国内首款战棋塔防策略手游新玩法",
+    "download_url": "https://itunes.apple.com/cn/app/mo-ling-bing-tuan-guo-nei/id1120562180?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8ff072095241728ee6c4d55a97308e3eb1472d60f10b278291f5ae2f7b212d1c.jpg",
+    "order": "37"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "开天之刃 - 玩就送战圣套！",
+    "download_url": "https://itunes.apple.com/cn/app/kai-tian-zhi-ren-wan-jiu-song/id1119047790?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/dddf819741155486f336ab23ceb2b6c2fa01ca6dce9f5f0b52cc26f7af88fa6a.jpg",
+    "order": "38"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "再见吧恶龙-可爱日系单机养成手游（男生女生必追的精品单机漫画游戏）",
+    "download_url": "https://itunes.apple.com/cn/app/zai-jian-ba-e-long-ke-ai-ri/id1100128615?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1c063f396a960bb65c791e689a170626b3aec00b15973fc1b24b6ba5708f31cc.jpg",
+    "order": "39"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "效率",
+    "name": "扫描全能王-2亿人都在用的文字识别、文档管理和文件共享平台",
+    "download_url": "https://itunes.apple.com/cn/app/sao-miao-quan-neng-wang-2yi/id388624839?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/7b1a9aa9fd08ad0bd4331175877f4f00fe6dff7825c6f41548876efc73c9d0ba.jpg",
+    "order": "40"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Blek",
+    "download_url": "https://itunes.apple.com/cn/app/blek/id742625884?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1b74c92f1cb15e292f757f03b05e4c13e679f892def78677bb654600bcb22fa8.jpg",
+    "order": "41"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "守望诸神-北欧众神先锋天启之战",
+    "download_url": "https://itunes.apple.com/cn/app/shou-wang-zhu-shen-bei-ou/id1120075190?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/2b25ec3841566188fa5846cb36f359058b930fbd9f78871b9cbf6346a6f6b3a4.jpg",
+    "order": "42"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "火柴人联盟2-暗黑横版ACT-目标：100个英雄",
+    "download_url": "https://itunes.apple.com/cn/app/huo-chai-ren-lian-meng2-hei/id1099088440?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1a3ad1d88bb589d85fdb6e5bb5f187ebbf8faf388378243fccd1933831a1d4f4.jpg",
+    "order": "43"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "天天魏蜀吴-福利版",
+    "download_url": "https://itunes.apple.com/cn/app/tian-tian-wei-shu-wu-fu-li-ban/id820843981?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/dec9421b3259f55e2f42d87c2a4f4c0c33b799e091e9e89705a2db12680b873d.jpg",
+    "order": "44"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "奇迹英雄-希腊神话史诗",
+    "download_url": "https://itunes.apple.com/cn/app/qi-ji-ying-xiong-xi-la-shen/id1115598329?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/414f46839745b7c4e57288d27d461393371cf9cb13f63732538043824d2eb556.jpg",
+    "order": "45"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "三国战纪-官方正版全民真人策略实时PK竞技街机格斗手游",
+    "download_url": "https://itunes.apple.com/cn/app/san-guo-zhan-ji-guan-fang/id1105377360?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/a4379c14a4b12dce34252b4a3c6621caa4e9fe6904508c4c65f553937d177d4b.jpg",
+    "order": "46"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "京门风月-女性古风定制手游",
+    "download_url": "https://itunes.apple.com/cn/app/jing-men-feng-yue-nu-xing/id1059642744?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/cc0fd2190da48a5fde22fbee29b101a9f9f168548ec50a714504c5ae4ebd1fe9.jpg",
+    "order": "47"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "十万个大魔王HD—全球首款拼手速网游",
+    "download_url": "https://itunes.apple.com/cn/app/shi-wan-ge-da-mo-wanghd-quan/id1078916150?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/389aff1e99eae50c4c3c2999da95f28e4b8415e47cbf99665a929867bf895e5e.jpg",
+    "order": "48"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "摄影与录像",
+    "name": "慢快门相机 (Slow Shutter Cam)",
+    "download_url": "https://itunes.apple.com/cn/app/man-kuai-men-xiang-ji-slow/id357404131?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/e6cd0e3c2b19a4629c471412af0ddb2e53c26547cba50dccaf26066c4bff685a.jpg",
+    "order": "49"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "死亡日记-首款末日求生游戏",
+    "download_url": "https://itunes.apple.com/cn/app/si-wang-ri-ji-shou-kuan-mo/id1014920360?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1da92a04100b5a7875ae37763d1aff6ec245a331f87d91f9c5144cc002a94107.jpg",
+    "order": "50"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Plague Inc. (瘟疫公司)",
+    "download_url": "https://itunes.apple.com/cn/app/plague-inc.-wen-yi-gong-si/id525818839?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/0cebf569e6ac072aa2f32f97f31a0ea65b54a7a788f5d911ed4adae2465d4e7f.jpg",
+    "order": "51"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "地下城堡: 炼金术师的魔幻之旅",
+    "download_url": "https://itunes.apple.com/cn/app/xia-cheng-bao-lian-jin-shu/id901738789?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/0bb66fd112cb713d98b90050171eea7ac1870b967a0dd8ca2926676ae92d4c4a.jpg",
+    "order": "52"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "暗黑西游-全民西游，仙侠征途，无尽修仙成就超神传奇",
+    "download_url": "https://itunes.apple.com/cn/app/hei-xi-you-quan-min-xi-you/id1113941612?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/dfa35db95d1eacc1c68654c8953f8f339edf88c885aee8701facaa536e192312.jpg",
+    "order": "53"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "帝国征服者-复兴帝国文明时代全面开战",
+    "download_url": "https://itunes.apple.com/cn/app/di-guo-zheng-fu-zhe-fu-xing/id1110657008?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/d61f057cb1645b4961aa0aac957b9f611faa13cc139a38680dc38e4d3e77ba94.jpg",
+    "order": "54"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "地狱边境 (LIMBO)",
+    "download_url": "https://itunes.apple.com/cn/app/de-yu-bian-jing-limbo/id685890408?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/a1b561f9b97e1844e6b303700b2f7659cce8b048d8a60ebe711c87c5b2685bfe.jpg",
+    "order": "55"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "三国战纪之风云再起（鈊象电子IGS官方正版无广告）",
+    "download_url": "https://itunes.apple.com/cn/app/san-guo-zhan-ji-zhi-feng-yun/id882460664?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/83eb7055d9f646aba23359e06d3e0fc0387961458f6949b2f353f678610d6243.jpg",
+    "order": "56"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "纪念碑谷",
+    "download_url": "https://itunes.apple.com/cn/app/ji-nian-bei-gu/id728293409?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/c3d1ea49e8f90170a1211c6569f917a260ee762f141f3a52a54cc84db2f57df4.jpg",
+    "order": "57"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "我是指挥官（送阿帕奇）：一人反恐 全家光荣",
+    "download_url": "https://itunes.apple.com/cn/app/wo-shi-zhi-hui-guan-song-pa/id1117818654?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/b33cc7e090303945519c10e2d6e0cf47fb949e32357cbb6df8d3361ebc519491.jpg",
+    "order": "58"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Minecraft: Pocket Edition",
+    "download_url": "https://itunes.apple.com/cn/app/minecraft-pocket-edition/id479516143?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/202d1418d30ab35e136bc0ef3163e22ff816d0db791894ff4d18e32214a55700.jpg",
+    "order": "59"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "安魂曲（Never Gone）-纯正暗黑动作炫斗",
+    "download_url": "https://itunes.apple.com/cn/app/hun-qu-never-gone-chun-zheng/id982819721?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/5b871da6a917f79bc4cdc8b461829634e538a01ffe6a09543333b7b9b7902a3a.jpg",
+    "order": "60"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "世界2-魔物狩猎",
+    "download_url": "https://itunes.apple.com/cn/app/shi-jie2-mo-wu-shou-lie/id933462805?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/58f61987dc2fabb5181eacba3261005ce424579239f30b1e0f6a7b663db2ef13.jpg",
+    "order": "61"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "健康健美",
+    "name": "i型男（健身＋格斗）",
+    "download_url": "https://itunes.apple.com/cn/app/i-xing-nan-jian-shen+ge-dou/id1034606893?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/594a9c1f7fce2093006e6b0c16628dd6e78678cc1f1a39044b6ac93db2ba11c7.jpg",
+    "order": "62"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "全民神仙OL-神魔大乱斗，经典卡牌回合制手游-送橙卡",
+    "download_url": "https://itunes.apple.com/cn/app/quan-min-shen-xianol-shen/id1114705722?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/ea6ebdc5c0808ac98d5d68ea60291c5eebaa022659e9a53449e4e0b6b8ff5582.jpg",
+    "order": "63"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "横冲直撞-\"划\"时代3D联机弹射手游",
+    "download_url": "https://itunes.apple.com/cn/app/heng-chong-zhi-zhuang-hua/id1054869589?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8e0af108b479ff85771ba66f331e345d342ec20a9f6114a29042fd692f2d76cf.jpg",
+    "order": "64"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "NBA 2K16",
+    "download_url": "https://itunes.apple.com/cn/app/nba-2k16/id984732818?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/9cdcd764b17f3ee8741f4faf60068201b226a1abb70b89e03efd2b56e0b4ca03.jpg",
+    "order": "65"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "航海帝国HD 唯一正版授权 传承经典 统御大航海强者时代",
+    "download_url": "https://itunes.apple.com/cn/app/hang-hai-di-guohd-wei-yi-zheng/id1120574666?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/327d378260805808493994fa6f776d31d734393a3e097a3a3055132655251d6f.jpg",
+    "order": "66"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "梦中旅人",
+    "download_url": "https://itunes.apple.com/cn/app/meng-zhong-lu-ren/id1076524992?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1688705e5fafe96e5f1dd835983e3a59cedb8ff775eae643150c51d4bf8fc1d2.jpg",
+    "order": "67"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "旅游",
+    "name": "艺龙旅行Pro-注册送酒店红包！旅游,旅行,出境游,查攻略必备",
+    "download_url": "https://itunes.apple.com/cn/app/yi-long-lu-xingpro-zhu-ce/id1048018108?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/56caef1013808e3b187529c1bd362eafce22c5de28a83159c53ad9f7be771955.jpg",
+    "order": "68"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "铁血武林-坚持怀旧风的武侠RPG游戏•全民跨服激战",
+    "download_url": "https://itunes.apple.com/cn/app/tie-xue-wu-lin-jian-chi-huai/id1035107039?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1b6a83e513d568ad4f1d8a1c0525ffd913c428aa65cc875c731ed9e73fc4083a.jpg",
+    "order": "69"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "万物生长：一株植物的奇妙旅程",
+    "download_url": "https://itunes.apple.com/cn/app/wan-wu-sheng-zhang-yi-zhu/id979469730?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8a472416fe7c2b43642b27b636890614dbabc532411154aa7a441e27d81d6d74.jpg",
+    "order": "70"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "工具",
+    "name": "魔百WiFi Pro - 无线上网密码钥匙神器，手机必备万能查看管家",
+    "download_url": "https://itunes.apple.com/cn/app/mo-baiwifi-pro-wu-xian-shang/id1104839440?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/7dae2faedfc208a486b3184da2d7af0807ce37a4387a426c1f02160b4f2e5ec8.jpg",
+    "order": "71"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "勇者大陆—魔兽迷必备(登录送钻石)",
+    "download_url": "https://itunes.apple.com/cn/app/yong-zhe-da-lu-mo-shou-mi/id1118842203?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/1e7f92a903e031cc9d51c4ba2b4131ed7a66d8b1bbfb4366e128282250a5df0a.jpg",
+    "order": "72"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "杀手：狙击手 。解锁史诗枪只，开枪射杀对手并称霸《Hitman: Sniper》排行榜",
+    "download_url": "https://itunes.apple.com/cn/app/sha-shou-ju-ji-shou-jie-suo/id904278510?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/787af5db0997edae14851959aa779a52ffd64a90c2dc408169f7882a97250b84.jpg",
+    "order": "73"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "未来战争：重生",
+    "download_url": "https://itunes.apple.com/cn/app/wei-lai-zhan-zheng-zhong-sheng/id1060062637?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/51a58108202eb6b14cef6be7f57b00f1b2c1f302b15a28a8beb3a8b66102b467.jpg",
+    "order": "74"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "财务",
+    "name": "随手记(专业版)-记账理财投资软件，财务记帐本",
+    "download_url": "https://itunes.apple.com/cn/app/sui-shou-ji-zhuan-ye-ban-ji/id373454750?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/035671052106e8fda47ce21abeca73895c1bc663dcdd9c868a0071dfb005b2ca.jpg",
+    "order": "75"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "摄影与录像",
+    "name": "Facetune",
+    "download_url": "https://itunes.apple.com/cn/app/facetune/id606310581?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/f5692f7ede21e3282bb3835e3ae6ace469d14b194121dd33bb3c2a3e86091f14.jpg",
+    "order": "76"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "奇幻射击2",
+    "download_url": "https://itunes.apple.com/cn/app/qi-huan-she-ji2/id1006503995?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/f1b48cef265f5f70165e6ffe11bedd03319580f1ed2f6c11c1b49b73e39a28f9.jpg",
+    "order": "77"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "美食佳饮",
+    "name": "绿色厨房 – 健康美味的素食食谱",
+    "download_url": "https://itunes.apple.com/cn/app/lu-se-chu-fang-jian-kang-mei/id466252999?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/917c753041141f61d72d3ce2f40eaf622858fc841c909f68dfc4d4dd939fb1c6.jpg",
+    "order": "78"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "参考",
+    "name": "第二个 for 微信 Pro",
+    "download_url": "https://itunes.apple.com/cn/app/di-er-ge-for-wei-xin-pro/id1121121687?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/a8b7fc0d36cfafd20d2d088d05bfbb256698b463eb2cd3f92a3999d556f17c9b.jpg",
+    "order": "79"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "剑仙传奇·蜀山修仙之独步天下",
+    "download_url": "https://itunes.apple.com/cn/app/jian-xian-chuan-qi-shu-shan/id1107170561?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/caa2190b2eab7b8ee32d3b47987461872ec6bd87376c9f6671d93076709dacae.jpg",
+    "order": "80"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Doodle Jump",
+    "download_url": "https://itunes.apple.com/cn/app/doodle-jump/id307727765?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/992b99f00594e3a860f7929324c91c90b97afb35fa2e21a62bdaa13f90dd4ae1.jpg",
+    "order": "81"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "植物大战僵尸",
+    "download_url": "https://itunes.apple.com/cn/app/zhi-wu-da-zhan-jiang-shi/id439615801?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/2b5421ed3f458b1eb97052115753f84d28791aa45e78d571d0da98e3a49296fb.jpg",
+    "order": "82"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "超级幻影猫 - 重温童年游戏的快乐",
+    "download_url": "https://itunes.apple.com/cn/app/chao-ji-huan-ying-mao-zhong/id1041873285?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/5916489be3c3cfec0806e1d64e695af65aec52fa0d723e7b7c6ea3af996c39cc.jpg",
+    "order": "83"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "小小大眼萌",
+    "download_url": "https://itunes.apple.com/cn/app/xiao-xiao-da-yan-meng/id1117395728?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/6656970840a1bea79f838aec9d997a5c4c692b6147606f2c95698de488f6af90.jpg",
+    "order": "84"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "爱丽丝快跑",
+    "download_url": "https://itunes.apple.com/cn/app/ai-li-si-kuai-pao/id554855652?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/18472433d2a7f55c2cfc40def08e0233d305cdf2168a19b3f9848a1ba17ad8d2.jpg",
+    "order": "85"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "摄影与录像",
+    "name": "Enlight",
+    "download_url": "https://itunes.apple.com/cn/app/enlight/id930026670?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/088584e081649c06ae372d38246e72000ddf1d51f88d4fcab4354080f24b0bec.jpg",
+    "order": "86"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "部落特烦恼 - 史上超神烦手游来袭",
+    "download_url": "https://itunes.apple.com/cn/app/bu-luo-te-fan-nao-shi-shang/id1088581210?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/8db6a63aa332ac17f41c9d526cf4a374468f9a21856cf31e46e6d0b910267ccc.jpg",
+    "order": "87"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "摄影与录像",
+    "name": "Camera360概念版 - HelloCamera",
+    "download_url": "https://itunes.apple.com/cn/app/camera360gai-nian-ban-hellocamera/id545623778?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/db1e1939adffff021bf0be75c7a80f0f330eec64770e0f535aa42bf17eba420b.jpg",
+    "order": "88"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "工具",
+    "name": "Shadowrocket",
+    "download_url": "https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/3995d6ebbde540b162c1aa41fc6a55d08509794256869ff5f51629482f300f61.jpg",
+    "order": "89"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "娱乐",
+    "name": "灵机塔罗-星座塔罗牌运势占卜,解密塔罗卡牌",
+    "download_url": "https://itunes.apple.com/cn/app/ling-ji-ta-luo-xing-zuo-ta/id507056600?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/cac6bd2e51872702155f3c69fdbc774ab64cbf3e8664a4a4d3231fd78e348543.jpg",
+    "order": "90"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "天气",
+    "name": "雨时",
+    "download_url": "https://itunes.apple.com/cn/app/yu-shi/id1059718989?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/13ed6a5d6cbdf60cc78696aec2720886ca256f4cb708915181bb5e7f6bef1e15.jpg",
+    "order": "91"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "voi",
+    "download_url": "https://itunes.apple.com/cn/app/voi/id1110376793?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/0dbecbf23279297d6e970b266e0eec993df03f75f858b0eb2b556b001067cda8.jpg",
+    "order": "92"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "效率",
+    "name": "Forest: 保持专注，拒当低头族",
+    "download_url": "https://itunes.apple.com/cn/app/forest-bao-chi-zhuan-zhu-ju/id866450515?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/defb28fe02cf78637d1e383cbd34aa9bb139cf8570de3c4c7314a0782811b7bc.jpg",
+    "order": "93"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "旅游",
+    "name": "航旅纵横PRO-官方航班动态、手机值机、机票",
+    "download_url": "https://itunes.apple.com/cn/app/hang-lu-zong-hengpro-guan/id768160271?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/39e1506e86af43cc377a45c78fe90c53b6aa6116abd34c7bcd6acee02ccf4c1a.jpg",
+    "order": "94"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "效率",
+    "name": "买火车票Pro",
+    "download_url": "https://itunes.apple.com/cn/app/mai-huo-che-piaopro/id584246550?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/ee004767cbbaf5f504ae5bcdfa76e62503b770800a3bd500069b3b49f565d78f.jpg",
+    "order": "95"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Deemo",
+    "download_url": "https://itunes.apple.com/cn/app/deemo/id700637744?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/98956de7cd8b6d0f7987f3ed50a351b4ec7bb7a1c6bce7f4992fd9a6ff7f907c.jpg",
+    "order": "96"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "Construction Simulator 2014",
+    "download_url": "https://itunes.apple.com/cn/app/construction-simulator-2014/id651978174?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/968295beb1db79fa5286809f26bb2c9cd872c248fc818d29b0a9b6ee0cbd6096.jpg",
+    "order": "97"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "社交",
+    "name": "WeicoPro 4",
+    "download_url": "https://itunes.apple.com/cn/app/weicopro-4/id978236345?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/c860d7731121d3f3982ea737fa87bc6f26a363d18929b87ef7c7cedb18238b27.jpg",
+    "order": "98"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "购物",
+    "name": "网易一元购Pro-首充多送1元,2016欧洲杯竞彩彩票投注",
+    "download_url": "https://itunes.apple.com/cn/app/wang-yi-yi-yuan-goupro-shou/id1106733694?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/3e48d6f6128e0f7168a7bdf846c46e8767e3ed07087788f078e2ba98dece5c7f.jpg",
+    "order": "99"
+  },
+  {
+    "data_source": "apple_cn_paid",
+    "app_type": "游戏",
+    "name": "大琴师贰",
+    "download_url": "https://itunes.apple.com/cn/app/da-qin-shi-er/id972989186?mt=8&uo=4&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=",
+    "image_url": "http://images.apple.com/autopush/cn/itunes/charts/paid-apps/images/2016/6/ea66e46c934cd366f4bf07a8199721e1d1713c182d939e097f4409bfdd34d519.jpg",
+    "order": "100"
+  }
+]

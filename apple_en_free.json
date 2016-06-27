@@ -1,0 +1,802 @@
+[
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Snapchat",
+    "download_url": "https://itunes.apple.com/us/app/snapchat/id447188370?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0e095d8f8dd03cf56214ec9a50ec978ca7c597f2b5d7b9b2973bdd118dfbdc99.jpg",
+    "order": "1"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Messenger",
+    "download_url": "https://itunes.apple.com/us/app/messenger/id454638411?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8dacc09fc5d97b9074b2f400a551901e575bd5ef5fd638efce330e1600a0ed6c.jpg",
+    "order": "2"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Instagram",
+    "download_url": "https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/82800a19dfac76d089b744e286a8b562c3e11a83b6755cbb2208e7a01f85bcb4.jpg",
+    "order": "3"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Facebook",
+    "download_url": "https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/b5d0271d8ff957add4f7a3a071e01ae0531426d677fb0c860558b08b885ad4c4.jpg",
+    "order": "4"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "YouTube",
+    "download_url": "https://itunes.apple.com/us/app/youtube/id544007664?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/6fb124142d05dde688e54fe4846ec85b2bec6d195c6d230e7c686f35caad3048.jpg",
+    "order": "5"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "slither.io",
+    "download_url": "https://itunes.apple.com/us/app/slither.io/id1091944550?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/3196a385e1c117e128b3ed46caa14ad90ecd15c0c5bb2cd703f5b92f63759586.jpg",
+    "order": "6"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Education",
+    "name": "iTunes U",
+    "download_url": "https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/3efe5a9a36202eb3aeb95531594ad2f65b4f97231ecb950845f5b9a1babc65ac.jpg",
+    "order": "7"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Navigation",
+    "name": "Google Maps - Real-time navigation, traffic, transit, and nearby places",
+    "download_url": "https://itunes.apple.com/us/app/google-maps-real-time-navigation/id585027354?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/b3ec2e20a23d06dc4870222cce5d929858c58ee07c8d083a44f93cf1b0dd9783.jpg",
+    "order": "8"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Entertainment",
+    "name": "Netflix",
+    "download_url": "https://itunes.apple.com/us/app/netflix/id363590051?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/10484883e46154f970e1ef43b1cba95ca55a14c9c855cdbca7cbc994e0aec007.jpg",
+    "order": "9"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Pandora - Free Music & Radio",
+    "download_url": "https://itunes.apple.com/us/app/pandora-free-music-radio/id284035177?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8db420ce00b5ab3d0fd584bc2c55635bafd36635032035c0afed52563128e68a.jpg",
+    "order": "10"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Travel",
+    "name": "Uber",
+    "download_url": "https://itunes.apple.com/us/app/uber/id368677368?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/be728034435ac36717c890c227a59f91639e93baccef470a04ac858031da5cd8.jpg",
+    "order": "11"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Spotify Music",
+    "download_url": "https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/974fcc0ed399a35a01ea907a555b75429139fe8d0b322c98917f3af3a21c36ed.jpg",
+    "order": "12"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "WhatsApp Messenger",
+    "download_url": "https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/1caae0ae68b0ce8ce95f5b35ba2e007d6aacbb707a02f6dbba17ee81cc3d02ef.jpg",
+    "order": "13"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Rodeo Stampede - Sky Zoo Safari",
+    "download_url": "https://itunes.apple.com/us/app/rodeo-stampede-sky-zoo-safari/id1047961826?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8f9b08bfcdce6de2b1ae16e2e62484c29100153086d4a4aa0cb374b91ced486d.jpg",
+    "order": "14"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Pinterest",
+    "download_url": "https://itunes.apple.com/us/app/pinterest/id429047995?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/1f921fb98bffa1a1ceb0b6f818b1b1f0bb457dd71ac2cb10baedd2a59403293f.jpg",
+    "order": "15"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "musical.ly - your video community",
+    "download_url": "https://itunes.apple.com/us/app/musical.ly-your-video-community/id835599320?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/4605a1ab5d8d26e496b6916e0c0676b5bfe7215d496112da4b7d54ab056490ce.jpg",
+    "order": "16"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Productivity",
+    "name": "Gmail - email from Google",
+    "download_url": "https://itunes.apple.com/us/app/gmail-email-from-google/id422689480?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/7d76b83eb07e24da2776b2a6958589fd4783d80a59c1b226f4b2b96fe2752f7a.jpg",
+    "order": "17"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "News",
+    "name": "Twitter",
+    "download_url": "https://itunes.apple.com/us/app/twitter/id333903271?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/721e09ffe1ce55d4aff93502ffb5ce4c5bf7ef884c4dc17fad5db49eeb3ed1b1.jpg",
+    "order": "18"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Color Switch",
+    "download_url": "https://itunes.apple.com/us/app/color-switch/id1053533457?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/24a056c21a1a228757f51c1bf6bed672606ef9cff8d3406c53b64f746ca52ed3.jpg",
+    "order": "19"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Traffic Rider",
+    "download_url": "https://itunes.apple.com/us/app/traffic-rider/id951744068?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/312910868902acbcee7e6bc38a05327376cb7f03a87945fe23969236ecbff963.jpg",
+    "order": "20"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Utilities",
+    "name": "Google app — Search made just for mobile",
+    "download_url": "https://itunes.apple.com/us/app/google-app-search-made-just/id284815942?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/94bfe609c22d7009a700d2cd0d1ad6c70870eff5e99fbda206e5c87698544b03.jpg",
+    "order": "21"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "Amazon App: shop, browse, scan, compare, and read reviews",
+    "download_url": "https://itunes.apple.com/us/app/amazon-app-shop-browse-scan/id297606951?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/5f4c99cba172b3ca4ce755c9f37f007790328e65f2548e91dbd85ceda1f20740.jpg",
+    "order": "22"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Navigation",
+    "name": "Waze - GPS Navigation, Maps & Social Traffic",
+    "download_url": "https://itunes.apple.com/us/app/waze-gps-navigation-maps-social/id323229106?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8d368dfb13f948d3a66da7bc120f12b37e004ebd887532a677414a148e18111c.jpg",
+    "order": "23"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Rolling Sky",
+    "download_url": "https://itunes.apple.com/us/app/rolling-sky/id1036661603?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/15e7fcbb04526f31f70ffb6d73864b6c37e89d86ac1fc28905a2f3f5660fc527.jpg",
+    "order": "24"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Skype for iPhone",
+    "download_url": "https://itunes.apple.com/us/app/skype-for-iphone/id304878510?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/09ee486ae380f890e55d1e348445fedbd4667d28e1eb9132193ed34dd6a450dd.jpg",
+    "order": "25"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Layout from Instagram",
+    "download_url": "https://itunes.apple.com/us/app/layout-from-instagram/id967351793?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/457478c9e763f46ce2627d48dc5d27feb82ccef9d8abf7c0c4d40f353857fe49.jpg",
+    "order": "26"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "SoundCloud - Music & Audio",
+    "download_url": "https://itunes.apple.com/us/app/soundcloud-music-audio/id336353151?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d1c503e98bae34101e45477582ccf5c1551f8f8e7ed6035c347160f7441fa840.jpg",
+    "order": "27"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Kik",
+    "download_url": "https://itunes.apple.com/us/app/kik/id357218860?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d8ab98d015812b2495d6c78e28043f7aed543d67ccc8a4b7e0909d020db7d4d8.jpg",
+    "order": "28"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Free Music - Unlimited Music Streamer & Cloud Songs Play.er",
+    "download_url": "https://itunes.apple.com/us/app/free-music-unlimited-music/id1109429811?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/4e7b29a121a30021b4be7c4f887b25e6f1beb273d96b1ac41777051f1f86233e.jpg",
+    "order": "29"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Boomerang from Instagram",
+    "download_url": "https://itunes.apple.com/us/app/boomerang-from-instagram/id1041596399?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/4d57e95a4f347d8612e0ec5e5fa37b3843996f15087df6443350d63f13713cca.jpg",
+    "order": "30"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "OfferUp - Buy. Sell. Simple.",
+    "download_url": "https://itunes.apple.com/us/app/offerup-buy.-sell.-simple./id468996152?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8d4da2d0c9d43191d1b70a0bbf12233ed292979b745631257f273aed306c9dc3.jpg",
+    "order": "31"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Subway Surfers",
+    "download_url": "https://itunes.apple.com/us/app/subway-surfers/id512939461?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/045c118e1d700843bbb9a20ce5cb0c47ed8da8e65aa4ef20a045f7eb8c75c342.jpg",
+    "order": "32"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Utilities",
+    "name": "Chrome - web browser by Google",
+    "download_url": "https://itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/c08f916b47d4ffcc1ab942c91322a6038ccd4dc83fa7d5c9cd0a63751ed0aff3.jpg",
+    "order": "33"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "letgo: Buy & Sell Second Hand Stuff",
+    "download_url": "https://itunes.apple.com/us/app/letgo-buy-sell-second-hand/id986339882?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/c9f1ea6172db09d4e12c3e0adab26347bd86f624702f7186646dd76b3634a4e9.jpg",
+    "order": "34"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Episode -- Choose Your Story, feat. Mean Girls: Senior Year",
+    "download_url": "https://itunes.apple.com/us/app/episode-choose-your-story/id656971078?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/e47c762a6942e7850a3c385970d4cdf1ce20b1b9fd83cee633163a5e2969b5f4.jpg",
+    "order": "35"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Travel",
+    "name": "Yelp",
+    "download_url": "https://itunes.apple.com/us/app/yelp/id284910350?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/53f7e6ffbd7d0dda5a261f14028dadeffcdfbab40047c45e5d175e21e68992f5.jpg",
+    "order": "36"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Weather",
+    "name": "The Weather Channel - local forecasts, radar maps, storm tracking, and rain alerts -  weather.com",
+    "download_url": "https://itunes.apple.com/us/app/weather-channel-local-forecasts/id295646461?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0aa82a6af32fe03f0e15da4a33a96f927c791ea540879f9bcad389ef317ad4ca.jpg",
+    "order": "37"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Hand of God™",
+    "download_url": "https://itunes.apple.com/us/app/hand-of-god/id1115733806?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/38a1d419c7320be9b69714b57d7cc57d0a7f3ebc20a5a9f7dc64aa66f7d5a8c8.jpg",
+    "order": "38"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Stack",
+    "download_url": "https://itunes.apple.com/us/app/stack/id1080487957?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/c303d176799bd9580bc3a0dfdcaaf73d6956db1ed996db548a227d331531472d.jpg",
+    "order": "39"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "live.ly - live video streaming",
+    "download_url": "https://itunes.apple.com/us/app/live.ly-live-video-streaming/id1085024470?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/185e5c135eab2d747be467283090610d6ec5de2dc39b0d8ab4c45d902f55880b.jpg",
+    "order": "40"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Entertainment",
+    "name": "iFunny :)",
+    "download_url": "https://itunes.apple.com/us/app/ifunny/id429610587?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/6f652f8b8cbab50604126b37d422cadd4f28ef2460476c6086c5158fabc1dd89.jpg",
+    "order": "41"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Live.me – Best Social Community for Live Video Streaming! Free app to Broadcast, Chat, Meet New Friends and Get Rewards!",
+    "download_url": "https://itunes.apple.com/us/app/live.me-best-social-community/id1089836344?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/912b5b063555e45bc0797ffe440ea054d5475fa14a083012098494a50b4c0d0b.jpg",
+    "order": "42"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Angry Birds 2",
+    "download_url": "https://itunes.apple.com/us/app/angry-birds-2/id880047117?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/a22121a7c24ced966924bedcba123ae7e5db30d8bff54e7f2f28be62fa85d55f.jpg",
+    "order": "43"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Piano Tiles 2 (Don't Tap The White Tile 2)",
+    "download_url": "https://itunes.apple.com/us/app/piano-tiles-2-dont-tap-white/id1027688889?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/959bb7921904b3b13d32c3311ac77cccdde5dfb1372ddb9f5fd6ce7c75488d75.jpg",
+    "order": "44"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Health & Fitness",
+    "name": "Fitbit",
+    "download_url": "https://itunes.apple.com/us/app/fitbit/id462638897?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/edc30ea24841ec6dbbc432c38ccd67b043ce3de70253f85f4e0e266c6f61445a.jpg",
+    "order": "45"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Productivity",
+    "name": "Dropbox",
+    "download_url": "https://itunes.apple.com/us/app/dropbox/id327630330?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/69123625c3d23a6bf6f870e351c277c11d615a5122458b1e772714bb54cc3f52.jpg",
+    "order": "46"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Mobile Strike",
+    "download_url": "https://itunes.apple.com/us/app/mobile-strike/id934596429?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d261bff3b6fb62a225e0502b563da179fda12e36dc5eb865100e4ba02d7e68d9.jpg",
+    "order": "47"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Food & Drink",
+    "name": "Chick-fil-A",
+    "download_url": "https://itunes.apple.com/us/app/chick-fil-a/id488818252?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/7f15728f66bfe40308f70cfa491c9bad8c05f9977772601da053f11e0b45a3c1.jpg",
+    "order": "48"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Utilities",
+    "name": "Bitmoji Keyboard - Your Avatar Emoji",
+    "download_url": "https://itunes.apple.com/us/app/bitmoji-keyboard-your-avatar/id868077558?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/5001ef0e2c1fc61dd553eca6729d7c4113b6748e7f5731700fcc7808860ea77f.jpg",
+    "order": "49"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Last Empire-War Z",
+    "download_url": "https://itunes.apple.com/us/app/last-empire-war-z/id1040083067?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8e4481d67efff9cf60c65a9313e8b68dd813299faa722f1385c6b19885116b45.jpg",
+    "order": "50"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "YouTube Music",
+    "download_url": "https://itunes.apple.com/us/app/youtube-music/id1017492454?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/ff69f77ad28d5f10c2c1abdd710b2e2129304893b68cc79420245ebdc032a62e.jpg",
+    "order": "51"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Temple Run 2",
+    "download_url": "https://itunes.apple.com/us/app/temple-run-2/id572395608?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/a720201798668cf158ee2d5449821dfb576d7089157afbe4eebffd8163a431f8.jpg",
+    "order": "52"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "Groupon - Deals, Coupons & Shopping: Discounts on Local Restaurants, Events, Hotels, Yoga & Spas",
+    "download_url": "https://itunes.apple.com/us/app/groupon-deals-coupons-shopping/id352683833?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/e08ac5ef8dd4421c67c030b573786ff20660fc97c4fec6b40d63f34fd7459e4f.jpg",
+    "order": "53"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Solitaire·",
+    "download_url": "https://itunes.apple.com/us/app/solitaire/id593715088?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/56a0072f1a6f5916c382d414df34b683727503566102d5136e9cd7deab2ae07e.jpg",
+    "order": "54"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Travel",
+    "name": "Lyft - Taxi App Alternative",
+    "download_url": "https://itunes.apple.com/us/app/lyft-taxi-app-alternative/id529379082?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/7eb3b63cf9f4d26837ed98c08d74b6b8a80a13bc80a6a412507b7d6d02cc845c.jpg",
+    "order": "55"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "8 Ball Pool™",
+    "download_url": "https://itunes.apple.com/us/app/8-ball-pool/id543186831?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/78367d0305f79dbfe1d33c0705a64fd1531303f4e56bb6dfa921f17a187422a7.jpg",
+    "order": "56"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Candy Crush Saga",
+    "download_url": "https://itunes.apple.com/us/app/candy-crush-saga/id553834731?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/f108bcaed8c3c9d811063106aa22a238f54e8f0f80bcaaa9b07faf0a349ba163.jpg",
+    "order": "57"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "Wish - Shopping Made Fun",
+    "download_url": "https://itunes.apple.com/us/app/wish-shopping-made-fun/id530621395?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d742e6549414f6de6fce65dc86c352aa837bde03b37fed855ad28a5cd8e1d921.jpg",
+    "order": "58"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "NinjAwesome",
+    "download_url": "https://itunes.apple.com/us/app/ninjawesome/id1060739646?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8246819c07834af2456bc2b8159741b4a0a113f3bdce745f5f0218dfc404ec64.jpg",
+    "order": "59"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Snap Upload Free for Snapchat: Upload text snap save pics effects & Get likes up, Instagram followers to Twitter, video chat on Snapchat hack, Uploader Snapshot Camera Roll",
+    "download_url": "https://itunes.apple.com/us/app/snap-upload-free-for-snapchat/id1121096797?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/40516fc71cf7824eab77d3b6aa9a388314304f0e8c43317494d7be8960721df9.jpg",
+    "order": "60"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Castle Clash: Age of Legends",
+    "download_url": "https://itunes.apple.com/us/app/castle-clash-age-of-legends/id692669501?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/41a3b629155bbfa1567a1e7a275245469f826432a1402d430ec3a86b41d21fb5.jpg",
+    "order": "61"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Flipagram",
+    "download_url": "https://itunes.apple.com/us/app/flipagram/id512727332?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/dbe37fa41b95a162404bd3e6989bfa5c2d32b73d2733be08eed7bd6fcebdfbcd.jpg",
+    "order": "62"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Periscope",
+    "download_url": "https://itunes.apple.com/us/app/periscope/id972909677?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/aca3ca3466b6a966761a7e0f724ef55e4a48c43741a6a8cf784b0fa823a20096.jpg",
+    "order": "63"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Jetpack Joyride",
+    "download_url": "https://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/78b4e924332960465886b71cc4c3da3701ed71b525464d59f620cf22ee3f8b67.jpg",
+    "order": "64"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Weather",
+    "name": "NOAA Weather Radar - Live Doppler Radars with National Weather Forecast, Maps & Severe Storm Alerts",
+    "download_url": "https://itunes.apple.com/us/app/noaa-weather-radar-live-doppler/id749133753?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0a276d7892cccad72319e761810b6e37d850c5604a42a4a6f03702d1094bbd62.jpg",
+    "order": "65"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Productivity",
+    "name": "Yahoo Mail - Keeps You Organized!",
+    "download_url": "https://itunes.apple.com/us/app/yahoo-mail-keeps-you-organized!/id577586159?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0b046fac24731f1ddc0fd9e3864cada89f4373eafa355c8a8179325921ec803c.jpg",
+    "order": "66"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "iHeartRadio – Free Music & Radio Stations",
+    "download_url": "https://itunes.apple.com/us/app/iheartradio-free-music-radio/id290638154?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/3e0c4c774ef0cab6d02dead4848a467310a9698d209fc82b7a96594c8ece1e9e.jpg",
+    "order": "67"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Lifestyle",
+    "name": "Tinder",
+    "download_url": "https://itunes.apple.com/us/app/tinder/id547702041?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/72f2fdf43dd40f184a78cdadf19c18f89c42795cfa984450065ed81a2b5f3daf.jpg",
+    "order": "68"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Shazam - Discover music, artists, videos & lyrics",
+    "download_url": "https://itunes.apple.com/us/app/shazam-discover-music-artists/id284993459?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/75baa5fdf5e856bfa755bb7a03ccf92020f1b9262ee5841e2f154d3bfff276b8.jpg",
+    "order": "69"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Productivity",
+    "name": "Google Drive - free online storage from Google",
+    "download_url": "https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/5c5f9e545b71c272bc51c76f4b8c6938190b8997b88be84441036fa56a14f23b.jpg",
+    "order": "70"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "eBay",
+    "download_url": "https://itunes.apple.com/us/app/ebay/id282614216?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/1433282dcc1c517075ce4beebb3a5034e018a0ef9b950f235fb791a8d34535df.jpg",
+    "order": "71"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Magic Piano by Smule",
+    "download_url": "https://itunes.apple.com/us/app/magic-piano-by-smule/id421254504?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/97b9b7a6613b217ac3842a995049617f2ce498e54e4584ba452f01e8ded136ea.jpg",
+    "order": "72"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Cooking Fever",
+    "download_url": "https://itunes.apple.com/us/app/cooking-fever/id714796093?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/2298134f456ffb02fea456cfa5ac29742aa6073b344481a0fa8861e94f771e2e.jpg",
+    "order": "73"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Productivity",
+    "name": "Microsoft Outlook - email and calendar",
+    "download_url": "https://itunes.apple.com/us/app/microsoft-outlook-email-calendar/id951937596?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/f8ecfd40a55af18d11c69109ea30e482101696b5c4bced58622e9c91591f0136.jpg",
+    "order": "74"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Toy Blast",
+    "download_url": "https://itunes.apple.com/us/app/toy-blast/id890378044?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/ffef35948466a2ddabb0e4b3e6b7f8db31f5baa75976009b54f83237d785c8d2.jpg",
+    "order": "75"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Finance",
+    "name": "Chase Mobile℠",
+    "download_url": "https://itunes.apple.com/us/app/chase-mobilesm/id298867247?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/aeac1ce3098a4f4035a3b88fee3c607781f11c92853be4e1ae954248e429c41f.jpg",
+    "order": "76"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Photo & Video",
+    "name": "Moments – Get the photos you didn't take",
+    "download_url": "https://itunes.apple.com/us/app/moments-get-photos-you-didnt/id991346515?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d83a5ad058805e3afa503297d8155fe58ed15b39c77dd5982bd07abb7a04a959.jpg",
+    "order": "77"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "The Sandbox Evolution - Craft a 2D Pixel Universe!",
+    "download_url": "https://itunes.apple.com/us/app/sandbox-evolution-craft-2d/id944393180?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/05de7cfbdd64865aca92954b51318507131e7b4e191ad80422ba1d82fa5dba1a.jpg",
+    "order": "78"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Shopping",
+    "name": "Jet App: Online Shopping Deals & Best Prices for Grocery, Home, & Daily Essentials",
+    "download_url": "https://itunes.apple.com/us/app/jet-app-online-shopping-deals/id950022424?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0c26f005e8fcd0e50ea901a692ae96ae007c1d532fdf3dceb92e5e711a620656.jpg",
+    "order": "79"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "ROBLOX",
+    "download_url": "https://itunes.apple.com/us/app/roblox/id431946152?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/e03c3a096c5947f3fbf5efbdfd130fea810a5981d039ba80d293b4e23ccf6844.jpg",
+    "order": "80"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Give It Up! 2",
+    "download_url": "https://itunes.apple.com/us/app/give-it-up!-2/id1011776388?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8d95fcc110afef74ca8edc059dacce40a36e98181453379552de7966d72d10f7.jpg",
+    "order": "81"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Bud Farm: Grass Roots",
+    "download_url": "https://itunes.apple.com/us/app/bud-farm-grass-roots/id1100883805?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/f8e223467103b3a885a30e030de1afe7f44043171b51c53e0dd8371091d1f31c.jpg",
+    "order": "82"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "Sing! Karaoke by Smule",
+    "download_url": "https://itunes.apple.com/us/app/sing!-karaoke-by-smule/id509993510?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/1d16e6d165c817f51e0e1e91ea0f57e864d726b8b5a771ccb6d48466c378f4cc.jpg",
+    "order": "83"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Best Fiends",
+    "download_url": "https://itunes.apple.com/us/app/best-fiends/id868013618?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/12e8d6847ee33271f610cbb75e7cc8ddeae909bd1f39eff6c2759ba40133e3d6.jpg",
+    "order": "84"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Handbrake Valet",
+    "download_url": "https://itunes.apple.com/us/app/handbrake-valet/id1081832850?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/328492f0e00564d8ae5675a4a735bb74f9c84366c39deea7ac7b2fb1de332024.jpg",
+    "order": "85"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "ooVoo – Free Video Call, Text and Voice",
+    "download_url": "https://itunes.apple.com/us/app/oovoo-free-video-call-text/id428845974?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/7f0a6f84ca0adb4583a8540a7c828249dfc4134c2c218afd3d6ab3395a556349.jpg",
+    "order": "86"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "Tumblr",
+    "download_url": "https://itunes.apple.com/us/app/tumblr/id305343404?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/eb549b540cfe2d30bea370c6701237995a51954c8b95741d96a72c8597d8b3ee.jpg",
+    "order": "87"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Social Networking",
+    "name": "GroupMe",
+    "download_url": "https://itunes.apple.com/us/app/groupme/id392796698?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/34c2640d12a2c844494e6dde83fe52fa1c9d1f381316e43d805398a69c9f412b.jpg",
+    "order": "88"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Entertainment",
+    "name": "Hulu – TV & Movies",
+    "download_url": "https://itunes.apple.com/us/app/hulu-tv-movies/id376510438?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/e8d488b778fcb0ad10bc558ce2e01ececdb0e7bd0006830f4cf1634c361d4f45.jpg",
+    "order": "89"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Clash of Clans",
+    "download_url": "https://itunes.apple.com/us/app/clash-of-clans/id529479190?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/aea4f47fbab4e2b3bbc59aec27f07553fb45e7559b8edf91ac21d37f892dd4fe.jpg",
+    "order": "90"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Music",
+    "name": "TuneIn Radio - Streaming for MLB, NHL, NFL, Audiobooks, News, Talk, Podcasts & Music",
+    "download_url": "https://itunes.apple.com/us/app/tunein-radio-streaming-for/id418987775?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/7535db9c8ad746e5b19f939559af822f3c7b4d5d2b224e75280b93c3939b1221.jpg",
+    "order": "91"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "WordWhizzle",
+    "download_url": "https://itunes.apple.com/us/app/wordwhizzle/id1078643602?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/d6588655d0595221899f2a787da13d0d0472d32416038d97f5e2a968207bcae3.jpg",
+    "order": "92"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Reference",
+    "name": "Google Translate",
+    "download_url": "https://itunes.apple.com/us/app/google-translate/id414706506?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/ca3f96701bec3f907be23d3d12dc6e8bf7a7ea83c3a6f5622eba34f3c466f8f7.jpg",
+    "order": "93"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Merged!",
+    "download_url": "https://itunes.apple.com/us/app/merged!/id1055672607?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8b9ba189ab214f75eb7d2f89daf45d9eaf69935bfcd896af5f06ecaa30662e1b.jpg",
+    "order": "94"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "Game of War - Fire Age",
+    "download_url": "https://itunes.apple.com/us/app/game-of-war-fire-age/id667728512?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/c966e722f845155e5706fe95093b37172654d22342d9b283cb7235b822ae532d.jpg",
+    "order": "95"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Sports",
+    "name": "ESPN - Get scores, news, and watch live sports",
+    "download_url": "https://itunes.apple.com/us/app/espn-get-scores-news-watch/id317469184?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/8fc134713e326116ebad0f710b3a0392eac43bbf46d8cb80064505931107661c.jpg",
+    "order": "96"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "The Sims™ FreePlay",
+    "download_url": "https://itunes.apple.com/us/app/the-sims-freeplay/id466965151?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/1576be4bf6dbd1ac60ca6e7c4264e0dc38e92de713567c27efb31abba0fb5c77.jpg",
+    "order": "97"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Utilities",
+    "name": "Quick Uploader Free - Safe Upload Photos & Videos from Camera roll.",
+    "download_url": "https://itunes.apple.com/us/app/quick-uploader-free-safe-upload/id1103096348?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/78bca4d4fbfe43201827769adc5019349cf7791c9f696535f29c35226b363364.jpg",
+    "order": "98"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Games",
+    "name": "100 PICS Quiz - Play daily Guess what's the Picture Puzzle trivia games for free!",
+    "download_url": "https://itunes.apple.com/us/app/100-pics-quiz-play-daily-guess/id652945710?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/2143904641183e7fc0de4399f297d413a4c2867f43581da6011611c26141ab20.jpg",
+    "order": "99"
+  },
+  {
+    "data_source": "apple_en_free",
+    "app_type": "Lifestyle",
+    "name": "T-Mobile Tuesdays",
+    "download_url": "https://itunes.apple.com/us/app/t-mobile-tuesdays/id1111876388?mt=8&uo=4&v0=WWW-NAUS-ITSTOP100-FREEAPPS&l=en",
+    "image_url": "http://images.apple.com/autopush/us/itunes/charts/free-apps/images/2016/6/0ccd200f76c083a93b6bcbeae098d0668cd8483381bb00799eb34f47529cf77a.jpg",
+    "order": "100"
+  }
+]
